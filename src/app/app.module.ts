@@ -6,22 +6,24 @@ import { AppComponent } from './app.component';
 import { PagesComponent } from './pages/pages.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { SideMenuComponent } from './shared/side-menu/side-menu.component';
+import { FormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
     AppComponent,
     PagesComponent,
     HeaderComponent,
-    SideMenuComponent
+    SideMenuComponent,
   ],
   imports: [
     BrowserModule,
-    NgbModule, 
-    AppRoutingModule
+    NgbModule,
+    AppRoutingModule,
+    FormsModule,
+    HttpClientModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
-
-
+export class AppModule {}
