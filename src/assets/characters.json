@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "くまモン",
+    "prefecture": "熊本県",
+    "organization": "熊本県PR",
+    "imagePath": "assets/images/kumamon.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "ふなっしー",
+    "prefecture": "千葉県",
+    "organization": "船橋市非公式",
+    "imagePath": "assets/images/funassyi.jpeg"
+  }
+]
