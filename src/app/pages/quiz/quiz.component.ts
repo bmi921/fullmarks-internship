@@ -87,6 +87,13 @@ export class QuizComponent implements OnInit {
 
     const isCorrect = selected === correctAnswer;
 
+    // Log the answer
+    if (isCorrect) {
+      this.dataService.addAnswerLog('correct', this.currentCharacter);
+    } else {
+      this.dataService.addAnswerLog('wrong', this.currentCharacter);
+    }
+
     // モーダルで正解/不正解を表示
     const modalRef = this.confirmService.show(isCorrect, correctAnswer);
     if (modalRef) {

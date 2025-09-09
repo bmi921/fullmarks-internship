@@ -1,1 +1,56 @@
-<p>results works!</p>
+<div class="container p-4">
+  <h2 class="mb-4">正解した問題</h2>
+  <div class="table-responsive shadow-sm rounded mb-5">
+    <table class="table table-hover align-middle">
+      <thead class="table-light text-uppercase small">
+        <tr>
+          <th scope="col" class="p-3">キャラクター</th>
+          <th scope="col" class="p-3">名前</th>
+          <th scope="col" class="p-3">出身地</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let char of correctAnswers">
+          <td class="p-3">
+            <img
+              [src]="char.imagePath"
+              [alt]="char.name"
+              class="rounded-circle"
+              style="width: 64px; height: 64px; object-fit: cover"
+            />
+          </td>
+          <td class="p-3 fw-bold">{{ char.name }}</td>
+          <td class="p-3">{{ char.prefecture }}</td>
+          <td class="p-3">{{ char.organization }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2 class="mb-4">不正解だった問題</h2>
+  <div class="table-responsive shadow-sm rounded">
+    <table class="table table-hover align-middle">
+      <thead class="table-light text-uppercase small">
+        <tr>
+          <th scope="col" class="p-3">キャラクター</th>
+          <th scope="col" class="p-3">名前</th>
+          <th scope="col" class="p-3">出身地</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let char of wrongAnswers">
+          <td class="p-3">
+            <img
+              [src]="char.imagePath"
+              [alt]="char.name"
+              class="rounded-circle"
+              style="width: 64px; height: 64px; object-fit: cover"
+            />
+          </td>
+          <td class="p-3 fw-bold">{{ char.name }}</td>
+          <td class="p-3">{{ char.prefecture }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
