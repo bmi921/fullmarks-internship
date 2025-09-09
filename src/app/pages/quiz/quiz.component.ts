@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Character } from 'src/app/models/character.model';
 import { DataService } from 'src/app/shared/data.service';
+import { ConfirmService } from 'src/app/shared/modal/confirm.service';
 
 @Component({
   selector: 'app-quiz',
@@ -13,7 +14,10 @@ export class QuizComponent implements OnInit {
   questionType: 'name' | 'prefecture' = 'name';
   questionText: string = '';
 
-  constructor(private dataService: DataService) {}
+  constructor(
+    private dataService: DataService,
+    private confirmService: ConfirmService,
+  ) {}
 
   ngOnInit(): void {
     this.dataService.getCharacters().subscribe((data) => {
@@ -62,5 +66,19 @@ export class QuizComponent implements OnInit {
       .map((value) => ({ value, sort: Math.random() }))
       .sort((a, b) => a.sort - b.sort)
       .map(({ value }) => value);
+  }
+
+  register(selected: string): void {
+    if (!this.currentCharacter) return;
+
+    const correctAnswer =
+      this.questionType === 'name'
+        ? this.currentCharacter.name
+        : this.currentCharacter.prefecture;
+
+    const isCorrect = selected === correctAnswer;
+
+    // モーダルで正解/不正解を表示
+    this.confirmService.show(isCorrect, correctAnswer);
   }
 }

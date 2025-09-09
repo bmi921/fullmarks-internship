@@ -8,6 +8,7 @@ import { HeaderComponent } from './shared/header/header.component';
 import { SideMenuComponent } from './shared/side-menu/side-menu.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { ConfirmModule } from './shared/modal/confirm/confirm.module';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { HttpClientModule } from '@angular/common/http';
     AppRoutingModule,
     FormsModule,
     HttpClientModule,
+    ConfirmModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
