@@ -8,6 +8,11 @@ const routes: Routes = [
     component: PagesComponent,
     children: [
       {
+        path: '',
+        loadChildren: () =>
+          import('./pages/home/home.module').then((m) => m.HomeModule),
+      },
+      {
         path: 'quiz',
         loadChildren: () =>
           import('./pages/quiz/quiz.module').then((m) => m.QuizModule),
