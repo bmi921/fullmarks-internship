@@ -1,16 +1,3122 @@
 [
   {
-    "id": 1,
     "name": "くまモン",
     "prefecture": "熊本県",
-    "organization": "熊本県PR",
-    "imagePath": "assets/images/kumamon.jpeg"
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYsInB1ciI6ImJsb2JfaWQifX0=--7dceeb955f310af3da910b1127f5fa8d829a4d06/00000001_image3.jpg",
+    "year": 2011
   },
   {
-    "id": 2,
-    "name": "ふなっしー",
+    "name": "いまばり バリィさん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUsInB1ciI6ImJsb2JfaWQifX0=--c9d8822d0403be5bcd795224a033a5614ff1f0cc/00000002_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "にしこくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQsInB1ciI6ImJsb2JfaWQifX0=--1ddd27e17d394d7267e26745ef4a096d5a42bde8/00000003_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "与一くん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMsInB1ciI6ImJsb2JfaWQifX0=--7388dddbf5a2fb0ca230dff1b2f665ee4528f0c9/00000004_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "はち丸/だなも/エビザベス",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIsInB1ciI6ImJsb2JfaWQifX0=--62e31b6a46313f59a77faa6301f052ff78b14eb5/00000005_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ふっかちゃん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEsInB1ciI6ImJsb2JfaWQifX0=--4665cb8a50d12a7d23100999a84898646058322c/00000006_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "モモマルくん",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAsInB1ciI6ImJsb2JfaWQifX0=--e383dd5edd86363d5165b9f1fac70347c2d9d603/00000007_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "やなな",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzksInB1ciI6ImJsb2JfaWQifX0=--79f25a0b1bdd66566285ca20195e14b096797e82/00000008_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "レルヒさん",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcsInB1ciI6ImJsb2JfaWQifX0=--73c0215a118c3dd55a1b1f1225dc659f3d324798/00000010_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ナガラ―",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2LCJwdXIiOiJibG9iX2lkIn19--0f133a43b3b658fc3911b262e368e36a43ec6247/00000011_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "千梅ちゃん",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1LCJwdXIiOiJibG9iX2lkIn19--d68ec9bffda585311808757dcfb4d2743e1f11ec/00000012_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "いなッピー",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0LCJwdXIiOiJibG9iX2lkIn19--c42b770caf6d304a6c6d44ad4d445578f986a921/00000013_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "すがもん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzLCJwdXIiOiJibG9iX2lkIn19--837622e061ccfc2613337ec73304291bc352fbb3/00000014_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "キャプテン海道くん",
+    "prefecture": "熊本県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQyLCJwdXIiOiJibG9iX2lkIn19--ee3544b9d26d07e1b004b7ccb62ab3fff1720922/00000015_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "いしきりん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxLCJwdXIiOiJibG9iX2lkIn19--bdc9006c5ce834c39f4c123049106074870919fe/00000016_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ミヤリー",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwLCJwdXIiOiJibG9iX2lkIn19--2825c6b0c48d0df55185c1bf9fb83ddc198b55cc/00000017_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "群馬県のマスコット「ぐんまちゃん」",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY5LCJwdXIiOiJibG9iX2lkIn19--1fbfbdeeddd15f67370355d6b5f8a6e2bfe1203f/00000018_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "しょうぶパン鬼一",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc4LCJwdXIiOiJibG9iX2lkIn19--da729e66631ce04a03767861bb7e51510191c3a0/00000019_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "さのまる",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg3LCJwdXIiOiJibG9iX2lkIn19--22a2ce5eb2fd2c9c3551bbe1a5e592e845b159be/00000020_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "島根県観光キャラクター「しまねっこ」",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2LCJwdXIiOiJibG9iX2lkIn19--62c1e89dc2180d48db2fd092800f3f669ff99eb1/00000021_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "玄武岩の玄",
+    "prefecture": "兵庫県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1LCJwdXIiOiJibG9iX2lkIn19--a924d533b8b8bb218cfb42d5d9ca352bc9916f33/00000022_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "とりもっちゃん",
+    "prefecture": "山梨県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0LCJwdXIiOiJibG9iX2lkIn19--f3a9103f4bf9dba8368c74d6c26561788f4a29dd/00000023_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "とうひょうくん",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzLCJwdXIiOiJibG9iX2lkIn19--42aade048ff1796eea65dd69d9cc1847eeace5cc/00000024_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "たいしくん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyLCJwdXIiOiJibG9iX2lkIn19--1cc11bad34000f98de7aad1c8d41898e74616dbb/00000025_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "阿賀野市イメージキャラクター「ごずっちょ」",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQxLCJwdXIiOiJibG9iX2lkIn19--86ae922ba1f1759a3fd32cccd4d680ea1785fef2/00000026_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "あゆコロちゃん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwLCJwdXIiOiJibG9iX2lkIn19--c5d2d6ccb43ae5a6becf8f355373c9ccaab6a240/00000027_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "さばトラななちゃん",
+    "prefecture": "福井県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU5LCJwdXIiOiJibG9iX2lkIn19--28a63952e2807a749f04bb34849b20d8372e2000/00000028_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "おけわんこ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4LCJwdXIiOiJibG9iX2lkIn19--5deab74bcb60506d12d6f5d679ed8a37259f7db4/00000029_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ピカリャ～",
+    "prefecture": "沖縄県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3LCJwdXIiOiJibG9iX2lkIn19--ab4fac9a8316849d80ddb387a2744a0759e6b31f/00000030_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "うなりくん",
     "prefecture": "千葉県",
-    "organization": "船橋市非公式",
-    "imagePath": "assets/images/funassyi.jpeg"
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "たか丸くん",
+    "prefecture": "青森県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1LCJwdXIiOiJibG9iX2lkIn19--37c93830f8fc81e193eabb8e5af2f98ddffc0d53/00000032_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ばっしょくん",
+    "prefecture": "石川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA0LCJwdXIiOiJibG9iX2lkIn19--02210dc23fd5ce43bd8fb4dc72284a69c3b94283/00000033_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "和倉温泉わくたまくん",
+    "prefecture": "石川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzLCJwdXIiOiJibG9iX2lkIn19--2be75762a405caccba04afd57afb7485520be272/00000034_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ネージュ",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyLCJwdXIiOiJibG9iX2lkIn19--e2d4311e3b0d633fe682c300de5eb70ca574f2d4/00000035_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "もち‐うさぎ",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMxLCJwdXIiOiJibG9iX2lkIn19--8de9faf623e6e50acfad0f4bb42b0ec957d4f9ee/00000036_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "浜松市マスコットキャラクター「出世大名家康くん」",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwLCJwdXIiOiJibG9iX2lkIn19--1cc5aa6d22888b909fb2208f44b203304c1673f8/00000037_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "ビバッチェくん",
+    "prefecture": "滋賀県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5LCJwdXIiOiJibG9iX2lkIn19--84feb406a4bbfb1a063d8b581500352b0e5d9b66/00000038_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "みくちゃん",
+    "prefecture": "奈良県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4LCJwdXIiOiJibG9iX2lkIn19--b8a953098aba349bfed66d3de1b8aaa929f8257b/00000039_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "コバトン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3LCJwdXIiOiJibG9iX2lkIn19--106c454600dbfc54cc2992f7cc90756582866476/00000040_image3.jpg",
+    "year": 2011
+  },
+  {
+    "name": "いまばり バリィさん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUsInB1ciI6ImJsb2JfaWQifX0=--c9d8822d0403be5bcd795224a033a5614ff1f0cc/00000002_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "ちょるる",
+    "prefecture": "山口県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ddd41b04c35382a482260d8da37c2497b1036b70/00000350_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "群馬県のマスコット「ぐんまちゃん」",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY5LCJwdXIiOiJibG9iX2lkIn19--1fbfbdeeddd15f67370355d6b5f8a6e2bfe1203f/00000018_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "さのまる",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg3LCJwdXIiOiJibG9iX2lkIn19--22a2ce5eb2fd2c9c3551bbe1a5e592e845b159be/00000020_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "ふっかちゃん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEsInB1ciI6ImJsb2JfaWQifX0=--4665cb8a50d12a7d23100999a84898646058322c/00000006_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "島根県観光キャラクター「しまねっこ」",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2LCJwdXIiOiJibG9iX2lkIn19--62c1e89dc2180d48db2fd092800f3f669ff99eb1/00000021_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "浜松市マスコットキャラクター「出世大名家康くん」",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwLCJwdXIiOiJibG9iX2lkIn19--1cc5aa6d22888b909fb2208f44b203304c1673f8/00000037_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "やなな",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzksInB1ciI6ImJsb2JfaWQifX0=--79f25a0b1bdd66566285ca20195e14b096797e82/00000008_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "あゆコロちゃん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwLCJwdXIiOiJibG9iX2lkIn19--c5d2d6ccb43ae5a6becf8f355373c9ccaab6a240/00000027_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "モモマルくん",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAsInB1ciI6ImJsb2JfaWQifX0=--e383dd5edd86363d5165b9f1fac70347c2d9d603/00000007_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "レルヒさん",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcsInB1ciI6ImJsb2JfaWQifX0=--73c0215a118c3dd55a1b1f1225dc659f3d324798/00000010_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "与一くん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMsInB1ciI6ImJsb2JfaWQifX0=--7388dddbf5a2fb0ca230dff1b2f665ee4528f0c9/00000004_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "とまチョップ",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--725fc8fc1262089755cd86737d3677dea0289eba/00000351_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "かわりみ千兵衛",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--823684d434167ed9dfe57e290ed5e51d32ef1078/00000352_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "うなりくん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "ぴょこたん",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--54ac5fb0c651899c1daa59ea1e92ad8a177ac463/00000353_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "おけわんこ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4LCJwdXIiOiJibG9iX2lkIn19--5deab74bcb60506d12d6f5d679ed8a37259f7db4/00000029_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "海老名市イメージキャラクター えび～にゃ",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a71f6ecc7a17baa566ef1396457f2816fa04099/00000354_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "あやめ",
+    "prefecture": "茨城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc1LCJwdXIiOiJibG9iX2lkIn19--2b6c3d893d26a0375e50b0561c9140a8144f2d6e/00000052_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "ちっちゃいおっさん",
+    "prefecture": "兵庫県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--17345a794370bcfc05ddfeb5f3a46d879e400135/00000355_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "コアックマ＆アックマ",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExMiwicHVyIjoiYmxvYl9pZCJ9fQ==--fa63a0e517a4dac70324552788b24b86dbf6b5c9/00000356_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "コバトン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3LCJwdXIiOiJibG9iX2lkIn19--106c454600dbfc54cc2992f7cc90756582866476/00000040_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "アルクマ（長野県PRキャラクター）",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b0811e0ab7d81f034e95efbd615c9dfafd3d8c8c/00000357_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "みくちゃん",
+    "prefecture": "奈良県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4LCJwdXIiOiJibG9iX2lkIn19--b8a953098aba349bfed66d3de1b8aaa929f8257b/00000039_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "ホヤぼーや",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--70371aebc15d90ca901521878b12ad13c55351a7/00000358_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "みやざき犬",
+    "prefecture": "宮崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f39c1d58198eec06b3df334a792aa115aecdcd0d/00000359_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "しょうぶパン鬼一",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc4LCJwdXIiOiJibG9iX2lkIn19--da729e66631ce04a03767861bb7e51510191c3a0/00000019_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "パイプル君",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2LCJwdXIiOiJibG9iX2lkIn19--24efa315b97c220c0ac4a95c1e086dbd8f09c261/00000041_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "とり奉行骨付じゅうじゅう",
+    "prefecture": "香川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c04d0ee27b74bb2d69244840dc61a30920fe74c9/00000360_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "五泉市忠犬！桜タマ吉",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE1NywicHVyIjoiYmxvYl9pZCJ9fQ==--94a123bf077b307a593e23df0723a5caef63e1bc/00000361_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "たか丸くん",
+    "prefecture": "青森県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1LCJwdXIiOiJibG9iX2lkIn19--37c93830f8fc81e193eabb8e5af2f98ddffc0d53/00000032_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "ミヤリー",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwLCJwdXIiOiJibG9iX2lkIn19--2825c6b0c48d0df55185c1bf9fb83ddc198b55cc/00000017_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "きみぴょん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg0LCJwdXIiOiJibG9iX2lkIn19--748199af58f936f93c539d86d907c2894f42919d/00000053_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "しろいしみのりちゃん",
+    "prefecture": "佐賀県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8c6e4b412d5d50dc5043f66f81e581fe2662b7c0/00000362_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "石井町イメージキャラクター「ふじっこちゃん」",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d9ae38e896baa4685c3495ae6d75f9febdec53c/00000363_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "じーも",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1596d5e6ecd07cd0b9a24dc17ecd824be869a3b6/00000165_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "むすび丸",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMwLCJwdXIiOiJibG9iX2lkIn19--8717ad6e1ab1fb6a4b4aae6ded6662efa4d346c6/00000047_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "カブッキー",
+    "prefecture": "石川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc0LCJwdXIiOiJibG9iX2lkIn19--a9c056fff8484ef01fbe158101867c8b9ebfb4b3/00000063_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "カパル",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2e01b6c554219098445bf1e389333afbd934b2df/00000364_image3.jpg",
+    "year": 2012
+  },
+  {
+    "name": "さのまる",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg3LCJwdXIiOiJibG9iX2lkIn19--22a2ce5eb2fd2c9c3551bbe1a5e592e845b159be/00000020_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "浜松市マスコットキャラクター「出世大名家康くん」",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwLCJwdXIiOiJibG9iX2lkIn19--1cc5aa6d22888b909fb2208f44b203304c1673f8/00000037_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "群馬県のマスコット「ぐんまちゃん」",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY5LCJwdXIiOiJibG9iX2lkIn19--1fbfbdeeddd15f67370355d6b5f8a6e2bfe1203f/00000018_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ふっかちゃん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEsInB1ciI6ImJsb2JfaWQifX0=--4665cb8a50d12a7d23100999a84898646058322c/00000006_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "与一くん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMsInB1ciI6ImJsb2JfaWQifX0=--7388dddbf5a2fb0ca230dff1b2f665ee4528f0c9/00000004_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "あゆコロちゃん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwLCJwdXIiOiJibG9iX2lkIn19--c5d2d6ccb43ae5a6becf8f355373c9ccaab6a240/00000027_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ちょるる",
+    "prefecture": "山口県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ddd41b04c35382a482260d8da37c2497b1036b70/00000350_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "かわりみ千兵衛",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--823684d434167ed9dfe57e290ed5e51d32ef1078/00000352_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "しっぺい",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--62c213ebd074e33b357ba13b789b44b7e1580a1f/00000430_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "島根県観光キャラクター「しまねっこ」",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2LCJwdXIiOiJibG9iX2lkIn19--62c1e89dc2180d48db2fd092800f3f669ff99eb1/00000021_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "みきゃん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--96528d81f27c6f86b5fb122cf1a32efff0ac36c2/00000940_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "すだちくん",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2e8bc645a2607176db4432c04c42677a5bf75415/00000533_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "しんじょう君",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bab0849e7649f83254f7ef6053f72a969d66e089/00000957_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "コアックマ＆アックマ",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExMiwicHVyIjoiYmxvYl9pZCJ9fQ==--fa63a0e517a4dac70324552788b24b86dbf6b5c9/00000356_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "あたまがふくしまちゃん",
+    "prefecture": "福島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab1e2e3f41f46957a1fd94e4dfdd708c23ed9ad5/00000958_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "みやざき犬",
+    "prefecture": "宮崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f39c1d58198eec06b3df334a792aa115aecdcd0d/00000359_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "海老名市イメージキャラクター えび～にゃ",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a71f6ecc7a17baa566ef1396457f2816fa04099/00000354_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "おけわんこ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4LCJwdXIiOiJibG9iX2lkIn19--5deab74bcb60506d12d6f5d679ed8a37259f7db4/00000029_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "とまチョップ",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--725fc8fc1262089755cd86737d3677dea0289eba/00000351_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "あやめ",
+    "prefecture": "茨城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc1LCJwdXIiOiJibG9iX2lkIn19--2b6c3d893d26a0375e50b0561c9140a8144f2d6e/00000052_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "オカザえもん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--566bc4b0dcde5c035cddb444c80ead29ecd34d26/00000959_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "チャチャ王国のおうじちゃま",
+    "prefecture": "京都府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--f323dbe65dc0ca17e8ed1c87338fdc1cbca1fc6c/00000960_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "イーサキング",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMyMywicHVyIjoiYmxvYl9pZCJ9fQ==--e655795f91632bf3a596896d3ac9aa9d158e953d/00000961_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "みくちゃん",
+    "prefecture": "奈良県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4LCJwdXIiOiJibG9iX2lkIn19--b8a953098aba349bfed66d3de1b8aaa929f8257b/00000039_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "トコろん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE5MywicHVyIjoiYmxvYl9pZCJ9fQ==--83dbccac61c1b632922c1a4b345075b966c7006c/00000365_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "うなりくん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "アルクマ（長野県PRキャラクター）",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b0811e0ab7d81f034e95efbd615c9dfafd3d8c8c/00000357_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ミヤリー",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwLCJwdXIiOiJibG9iX2lkIn19--2825c6b0c48d0df55185c1bf9fb83ddc198b55cc/00000017_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "稲城なしのすけ",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1fb734d069f2eeb893d557f174f52f85206adbea/00000398_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "きみぴょん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg0LCJwdXIiOiJibG9iX2lkIn19--748199af58f936f93c539d86d907c2894f42919d/00000053_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "カブッキー",
+    "prefecture": "石川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc0LCJwdXIiOiJibG9iX2lkIn19--a9c056fff8484ef01fbe158101867c8b9ebfb4b3/00000063_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "いなりん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAxLCJwdXIiOiJibG9iX2lkIn19--e96f20ea9e0721e2bd72e160401b198c6b67a923/00000066_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ブラックジャンボール＆ジャンボ～ル三世",
+    "prefecture": "富山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--0206a12c9d94cf89807e82c180116bbd11662b22/00000423_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ざまりん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--31cc88b68440c6b35b7d5f6bbf7a4169e4f08900/00000369_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ホヤぼーや",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--70371aebc15d90ca901521878b12ad13c55351a7/00000358_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "あさっぴー",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3LCJwdXIiOiJibG9iX2lkIn19--74239121dc578cfc42631433ea04443637c3c521/00000050_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "前橋市マスコットキャラクター「ころとん」",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0ed6eddb13bd9f169ad737425f803a1189f9e3e8/00000120_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "ビバッチェくん",
+    "prefecture": "滋賀県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5LCJwdXIiOiJibG9iX2lkIn19--84feb406a4bbfb1a063d8b581500352b0e5d9b66/00000038_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "にしこくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQsInB1ciI6ImJsb2JfaWQifX0=--1ddd27e17d394d7267e26745ef4a096d5a42bde8/00000003_image3.jpg",
+    "year": 2013
+  },
+  {
+    "name": "群馬県のマスコット「ぐんまちゃん」",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY5LCJwdXIiOiJibG9iX2lkIn19--1fbfbdeeddd15f67370355d6b5f8a6e2bfe1203f/00000018_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ふっかちゃん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEsInB1ciI6ImJsb2JfaWQifX0=--4665cb8a50d12a7d23100999a84898646058322c/00000006_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "みきゃん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--96528d81f27c6f86b5fb122cf1a32efff0ac36c2/00000940_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "しんじょう君",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bab0849e7649f83254f7ef6053f72a969d66e089/00000957_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "チャチャ王国のおうじちゃま",
+    "prefecture": "京都府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--f323dbe65dc0ca17e8ed1c87338fdc1cbca1fc6c/00000960_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "与一くん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMsInB1ciI6ImJsb2JfaWQifX0=--7388dddbf5a2fb0ca230dff1b2f665ee4528f0c9/00000004_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "島根県観光キャラクター「しまねっこ」",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2LCJwdXIiOiJibG9iX2lkIn19--62c1e89dc2180d48db2fd092800f3f669ff99eb1/00000021_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "とち介",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyODcsInB1ciI6ImJsb2JfaWQifX0=--65a92caa583985be063612ab3366e4a4e949f70e/00002023_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "あゆコロちゃん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwLCJwdXIiOiJibG9iX2lkIn19--c5d2d6ccb43ae5a6becf8f355373c9ccaab6a240/00000027_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "しっぺい",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--62c213ebd074e33b357ba13b789b44b7e1580a1f/00000430_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "雪丸",
+    "prefecture": "奈良県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEzMTEsInB1ciI6ImJsb2JfaWQifX0=--f707f4ad85bcd3714f1c37c2e6c974756edc9d13/00001312_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "みくちゃん",
+    "prefecture": "奈良県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4LCJwdXIiOiJibG9iX2lkIn19--b8a953098aba349bfed66d3de1b8aaa929f8257b/00000039_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "すだちくん",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2e8bc645a2607176db4432c04c42677a5bf75415/00000533_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "カブッキー",
+    "prefecture": "石川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc0LCJwdXIiOiJibG9iX2lkIn19--a9c056fff8484ef01fbe158101867c8b9ebfb4b3/00000063_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "海老名市イメージキャラクター えび～にゃ",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a71f6ecc7a17baa566ef1396457f2816fa04099/00000354_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "バーバーくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMDksInB1ciI6ImJsb2JfaWQifX0=--ea2782a4c35318c862e58c7053b91b680c431385/00001865_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "だし丸くん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--b2de2e682239e6beb857fc951439d097c01808e5/00000970_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "うなりくん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "あたまがふくしまちゃん",
+    "prefecture": "福島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab1e2e3f41f46957a1fd94e4dfdd708c23ed9ad5/00000958_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "コバサンタ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY4MTksInB1ciI6ImJsb2JfaWQifX0=--358d1fc8031d470a956d40420134fc599017e1f4/00001962_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "せとっち",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MDUsInB1ciI6ImJsb2JfaWQifX0=--6c520289d07958cb4dcddfd7c17fb19a0f73d0cb/00001913_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "はにたん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c1e66374a51a3d81c07a0a94687c48ec2ca67da9/00000393_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "きみぴょん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg0LCJwdXIiOiJibG9iX2lkIn19--748199af58f936f93c539d86d907c2894f42919d/00000053_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ミナモ",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MzQsInB1ciI6ImJsb2JfaWQifX0=--e00b29618707695a971f31422c69672020328797/00002240_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ざまりん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--31cc88b68440c6b35b7d5f6bbf7a4169e4f08900/00000369_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "政光くん・寒川尼ちゃん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--637d27b868b99bb7359695e67b4c4a32543e639d/00000631_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ブラックジャンボール＆ジャンボ～ル三世",
+    "prefecture": "富山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--0206a12c9d94cf89807e82c180116bbd11662b22/00000423_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "チュッピー",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--d7d94d8b4dc2d09421ed3025524c93b820884b3a/00000971_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ぱんちゃん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3MjAsInB1ciI6ImJsb2JfaWQifX0=--90800bf885869e7694c423739037faf6c8253719/00001951_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "伊勢原市公式イメージキャラクター　クルリン",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyMjUsInB1ciI6ImJsb2JfaWQifX0=--68c3f1029cd600963eeabb795fbc4d52d5c48695/00001890_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ほっくん",
+    "prefecture": "山口県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ae08379626d47aca2d71ea49bcf4bd8d6b996cdf/00000965_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "だがやくん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY2NjYsInB1ciI6ImJsb2JfaWQifX0=--6c5ebccaba8ce48e470625da735ad80a43079dd0/00001943_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "笹だるま",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MTYsInB1ciI6ImJsb2JfaWQifX0=--3217b467b53f5c1d922961040a28bd9db29c90eb/00002239_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "イーサキング",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMyMywicHVyIjoiYmxvYl9pZCJ9fQ==--e655795f91632bf3a596896d3ac9aa9d158e953d/00000961_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ビバッチェくん",
+    "prefecture": "滋賀県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5LCJwdXIiOiJibG9iX2lkIn19--84feb406a4bbfb1a063d8b581500352b0e5d9b66/00000038_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "いなッピー",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0LCJwdXIiOiJibG9iX2lkIn19--c42b770caf6d304a6c6d44ad4d445578f986a921/00000013_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "ともなりくん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--483d08435572176ac2cc232ade8edef601e9a47b/00000963_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "トコろん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE5MywicHVyIjoiYmxvYl9pZCJ9fQ==--83dbccac61c1b632922c1a4b345075b966c7006c/00000365_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "Ｐマン＆ぴーにゃっつ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwMTYsInB1ciI6ImJsb2JfaWQifX0=--52a4e125b6248bdf731d88898853f5b7706c0d73/00002127_image3.jpg",
+    "year": 2014
+  },
+  {
+    "name": "浜松市マスコットキャラクター「出世大名家康くん」",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwLCJwdXIiOiJibG9iX2lkIn19--1cc5aa6d22888b909fb2208f44b203304c1673f8/00000037_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "みきゃん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--96528d81f27c6f86b5fb122cf1a32efff0ac36c2/00000940_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ふっかちゃん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEsInB1ciI6ImJsb2JfaWQifX0=--4665cb8a50d12a7d23100999a84898646058322c/00000006_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "しんじょう君",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bab0849e7649f83254f7ef6053f72a969d66e089/00000957_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "メルギューくん・メルモモちゃん",
+    "prefecture": "富山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--6ec598b20345d0133e352f5d5eebb9fae8087bf8/00000985_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "とち介",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyODcsInB1ciI6ImJsb2JfaWQifX0=--65a92caa583985be063612ab3366e4a4e949f70e/00002023_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "はにぽん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1LCJwdXIiOiJibG9iX2lkIn19--c4d549059cc6e141ae9358c0a5170a2d4d7e469d/00000093_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "政光くん・寒川尼ちゃん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--637d27b868b99bb7359695e67b4c4a32543e639d/00000631_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "だし丸くん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--b2de2e682239e6beb857fc951439d097c01808e5/00000970_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "島根県観光キャラクター「しまねっこ」",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2LCJwdXIiOiJibG9iX2lkIn19--62c1e89dc2180d48db2fd092800f3f669ff99eb1/00000021_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "しずな～び",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNjYsInB1ciI6ImJsb2JfaWQifX0=--3fade384b7599219eaa10e7a6af61d850f148826/00002401_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "しっぺい",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--62c213ebd074e33b357ba13b789b44b7e1580a1f/00000430_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "エネライヌ",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMzNzEsInB1ciI6ImJsb2JfaWQifX0=--6cb0fbcec9d95b2001a47ece73981bdd1ef4fc16/00002715_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "とらきち（近畿産業信用組合）",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2MjEsInB1ciI6ImJsb2JfaWQifX0=--fa26a2f5cbec444d82bf4a0f42f6f47d8c1090e8/00003006_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "チュッピー",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--d7d94d8b4dc2d09421ed3025524c93b820884b3a/00000971_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "マッピー",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyMzcsInB1ciI6ImJsb2JfaWQifX0=--879d728579fcca4d49ac098bb80f4d8eb6dc2ce3/00002566_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "Ｐマン＆ぴーにゃっつ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwMTYsInB1ciI6ImJsb2JfaWQifX0=--52a4e125b6248bdf731d88898853f5b7706c0d73/00002127_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "でんちゅうくん",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7c03347115ac3d2f140b293e00d8460586c6a56/00000973_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ミナモ",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MzQsInB1ciI6ImJsb2JfaWQifX0=--e00b29618707695a971f31422c69672020328797/00002240_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ちりゅっぴ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMDMsInB1ciI6ImJsb2JfaWQifX0=--76f17d069445aac65d49a01c8acbb4e4aff1981f/00002537_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "りそにゃ",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM2NzcsInB1ciI6ImJsb2JfaWQifX0=--996aa60090ac99ca574cb5207a45f3b2f60bf077/00002751_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ぱんちゃん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3MjAsInB1ciI6ImJsb2JfaWQifX0=--90800bf885869e7694c423739037faf6c8253719/00001951_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "うなりくん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ほっくん",
+    "prefecture": "山口県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ae08379626d47aca2d71ea49bcf4bd8d6b996cdf/00000965_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "モーリーズ",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc1MjEsInB1ciI6ImJsb2JfaWQifX0=--eb28736d7ba991e3e6ef77eab09ccb4760ddadce/00002068_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ざまりん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--31cc88b68440c6b35b7d5f6bbf7a4169e4f08900/00000369_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "バニオン",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwOTEsInB1ciI6ImJsb2JfaWQifX0=--9aec240e97931cd020618fc4d962ed4e1d694449/00002805_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "前橋市マスコットキャラクター「ころとん」",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0ed6eddb13bd9f169ad737425f803a1189f9e3e8/00000120_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ブラックジャンボール＆ジャンボ～ル三世",
+    "prefecture": "富山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--0206a12c9d94cf89807e82c180116bbd11662b22/00000423_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ゆめはまちゃん",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--8dc40c8679cd372bdf6cb22db1cee9890c64db1c/00000222_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "伊勢原市公式イメージキャラクター　クルリン",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyMjUsInB1ciI6ImJsb2JfaWQifX0=--68c3f1029cd600963eeabb795fbc4d52d5c48695/00001890_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ぽんちゃん",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMywicHVyIjoiYmxvYl9pZCJ9fQ==--865b5a55a8d2330686e9768582e3145ee29f3673/00000136_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ゆずがっぱ",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk4NzAsInB1ciI6ImJsb2JfaWQifX0=--2ab7d9986251a71f86b5477ccceb4bdaa148a80d/00002354_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "いづみ姫",
+    "prefecture": "京都府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAzNywicHVyIjoiYmxvYl9pZCJ9fQ==--a475947aeac81c30cf6c1483fad317c4d66f1e08/00000690_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "菊川市マスコットキャラクター「きくのん」",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwNzksInB1ciI6ImJsb2JfaWQifX0=--c884faab22e41b815faa62f94f1f20b48b421360/00002134_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "こにゅうどうくん",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a00a0285ae3caba7259a0c7d13204bdf617ae2de/00000390_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "ごてんばこめこ",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--961d79102ce57016e551ceb8cbdc30de35045869/00001143_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "こぶしまる",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxODMsInB1ciI6ImJsb2JfaWQifX0=--c05ddce9f306d6294b3c5ef50aa0bbfa427a93b9/00002559_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "しっくい丸",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwODksInB1ciI6ImJsb2JfaWQifX0=--d9ed483b00f62283066e0032403e88c6d6e588c5/00001999_image3.jpg",
+    "year": 2015
+  },
+  {
+    "name": "しんじょう君",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bab0849e7649f83254f7ef6053f72a969d66e089/00000957_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "はにぽん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1LCJwdXIiOiJibG9iX2lkIn19--c4d549059cc6e141ae9358c0a5170a2d4d7e469d/00000093_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "チュッピー",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--d7d94d8b4dc2d09421ed3025524c93b820884b3a/00000971_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "とち介",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyODcsInB1ciI6ImJsb2JfaWQifX0=--65a92caa583985be063612ab3366e4a4e949f70e/00002023_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ぽすくま",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2MDAsInB1ciI6ImJsb2JfaWQifX0=--cefa8bda1fbc8252d31f9d229a16b631b05b1c22/00003345_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "こんのすけ",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3NzEsInB1ciI6ImJsb2JfaWQifX0=--5b98319186da896a901d961b0f406ec9a870624a/00003364_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ミムリン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA4LCJwdXIiOiJibG9iX2lkIn19--76b7c346488597ab3fa78cb50a6106ba03df6db4/00000090_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "りそにゃ",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM2NzcsInB1ciI6ImJsb2JfaWQifX0=--996aa60090ac99ca574cb5207a45f3b2f60bf077/00002751_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "島根県観光キャラクター「しまねっこ」",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2LCJwdXIiOiJibG9iX2lkIn19--62c1e89dc2180d48db2fd092800f3f669ff99eb1/00000021_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ゆずがっぱ",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk4NzAsInB1ciI6ImJsb2JfaWQifX0=--2ab7d9986251a71f86b5477ccceb4bdaa148a80d/00002354_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "はにたん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c1e66374a51a3d81c07a0a94687c48ec2ca67da9/00000393_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "つげさん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyOTQsInB1ciI6ImJsb2JfaWQifX0=--11f052bf73508e8f01c8c0976d254ec22c8344d4/00001190_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "菊川市マスコットキャラクター「きくのん」",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwNzksInB1ciI6ImJsb2JfaWQifX0=--c884faab22e41b815faa62f94f1f20b48b421360/00002134_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ニーラ",
+    "prefecture": "山梨県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9650568ad9baed34eeaeadf01ed3d96ac933033/00000199_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "トマックン",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1NzMsInB1ciI6ImJsb2JfaWQifX0=--422cbd50da5cb45501482f4b69cd8e51408013c7/00003342_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "こにゅうどうくん",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a00a0285ae3caba7259a0c7d13204bdf617ae2de/00000390_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "はっぴーカバー君",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgxODYsInB1ciI6ImJsb2JfaWQifX0=--48466870b2a580a05fe947887760ef465726e88d/00003295_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "Ｐマン＆ぴーにゃっつ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwMTYsInB1ciI6ImJsb2JfaWQifX0=--52a4e125b6248bdf731d88898853f5b7706c0d73/00002127_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "でんちゅうくん",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7c03347115ac3d2f140b293e00d8460586c6a56/00000973_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ハッぴぃ ショッぴぃ フジッぴぃ",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4MTcsInB1ciI6ImJsb2JfaWQifX0=--26a471a1b332c8d3c42c19c9998bcbb029e93965/00003253_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "うなりくん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "どりんぴん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc5MDgsInB1ciI6ImJsb2JfaWQifX0=--09397e2a46a9af61e0c3af50a2ef00d3fd4b5c00/00002114_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "きゅぽらん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4086fa9f6681e2995905e92f431633127ab2d1ab/00000831_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "やいちゃん",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--a2ed3e6663a5bd22cf350359e4ee3cbe638c7e8f/00001117_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "こぶしまる",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxODMsInB1ciI6ImJsb2JfaWQifX0=--c05ddce9f306d6294b3c5ef50aa0bbfa427a93b9/00002559_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "いまぞう君",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgyNTgsInB1ciI6ImJsb2JfaWQifX0=--09ede9e1150215348ae35c29b558ade59b6499a9/00003304_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "あわブタ",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3MjMsInB1ciI6ImJsb2JfaWQifX0=--52c74b2d012074e63630c9dfc79b0df6a7b6c83f/00002632_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "はぴ太ファミリー",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5NjAsInB1ciI6ImJsb2JfaWQifX0=--349ee6e3d2537818e86b39ada5c1850e403b3449/00003385_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ユキマサくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5ODAsInB1ciI6ImJsb2JfaWQifX0=--aa5bfb2f159e8669ab498823a085cd285397ebea/00003147_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "いのとん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7785d6e0b3f2c4a781e1d2ee48271d6d97faf9d/00000994_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ちりゅっぴ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMDMsInB1ciI6ImJsb2JfaWQifX0=--76f17d069445aac65d49a01c8acbb4e4aff1981f/00002537_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "キューモット",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1NDAsInB1ciI6ImJsb2JfaWQifX0=--5a838451d48575ceace5e2537634c9514ca36021/00002997_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "はすぴぃ",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--9fc2f666be80ba72246b43e44d79155aa024f6c1/00000982_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "島原守護神しまばらん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMzksInB1ciI6ImJsb2JfaWQifX0=--a56e83b2145d2ca15b06cdc6aecd68770b800fb3/00003313_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "なーしくん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwMTcsInB1ciI6ImJsb2JfaWQifX0=--05b546b9d354f496e7c31d9cc3128d07b683fcd8/00001988_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "メル助",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0NjgsInB1ciI6ImJsb2JfaWQifX0=--253699ff83e365e8300ebcfe35a4a5aeb230be73/00002988_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "いえらぶ君",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3NTMsInB1ciI6ImJsb2JfaWQifX0=--bae2a313d9e6c636c6f2893c48dc512c61859a3b/00003362_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "ミクリン",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxMTEsInB1ciI6ImJsb2JfaWQifX0=--9a403f8e8909b4a4bd107eb137f7e24894d8adeb/00002550_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "すそのん（静岡県裾野市マスコットキャラクター）",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2MDksInB1ciI6ImJsb2JfaWQifX0=--a0d66b8eb4ea00d9e6016f6ddfa04d485a220485/00002323_image3.jpg",
+    "year": 2016
+  },
+  {
+    "name": "うなりくん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--f4ad774ab3db378adc7dcb9f906ccc4016eff0a7/00000031_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ちりゅっぴ",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMDMsInB1ciI6ImJsb2JfaWQifX0=--76f17d069445aac65d49a01c8acbb4e4aff1981f/00002537_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "トライくん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--817099944986c66f1413abd43ea5fbbcbe2e684e/00000895_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "こにゅうどうくん",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a00a0285ae3caba7259a0c7d13204bdf617ae2de/00000390_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "稲敷いなのすけ",
+    "prefecture": "茨城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM1MzMsInB1ciI6ImJsb2JfaWQifX0=--25e6210adf3dfa95ed1ee9abd488c719db2eb752/00002736_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ジャー坊",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NDAsInB1ciI6ImJsb2JfaWQifX0=--1cc587561e5dc08d629027283963d04926842498/00003613_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "カミスココくん",
+    "prefecture": "茨城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MjQsInB1ciI6ImJsb2JfaWQifX0=--6a45f0f1272fd9d8419cb6b4c8042336bb2782be/00002620_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "福井市宣伝隊長「朝倉ゆめまる」",
+    "prefecture": "福井県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--3178131aa8f0b6747683c4adf69097f1d58e4c2b/00000877_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "なーしくん",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwMTcsInB1ciI6ImJsb2JfaWQifX0=--05b546b9d354f496e7c31d9cc3128d07b683fcd8/00001988_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "カパル",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2e01b6c554219098445bf1e389333afbd934b2df/00000364_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ポテくまくん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MzUsInB1ciI6ImJsb2JfaWQifX0=--913700bb48cb5bdc2a551574e523db2f3bd62c05/00002592_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "センドくん",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA1ODAsInB1ciI6ImJsb2JfaWQifX0=--96aa1b0021e45f40562d9d3d4771f44d27251d9e/00003573_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "島原守護神しまばらん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMzksInB1ciI6ImJsb2JfaWQifX0=--a56e83b2145d2ca15b06cdc6aecd68770b800fb3/00003313_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "むすび丸",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMwLCJwdXIiOiJibG9iX2lkIn19--8717ad6e1ab1fb6a4b4aae6ded6662efa4d346c6/00000047_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "つるゴン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a15f7e19f23af8532df5ba35eea027db48f95b5/00001114_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "大野ジョー",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5LCJwdXIiOiJibG9iX2lkIn19--89791eaf92d77584edf9a0cb824220eae45b7437/00000099_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "パタ崎さん",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NzksInB1ciI6ImJsb2JfaWQifX0=--54fb933245b8b2c13d7374983bfeb18f395d04fa/00001365_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "マッキー",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab0700f17909fc764b829e1530cc1d54f4d3cefe/00000119_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ばら菜",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc5NjIsInB1ciI6ImJsb2JfaWQifX0=--f4dfa760eff95996e2707e456142172a1a32a793/00002121_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "なかはマン",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--856c950306e1296586c23eac51268bc6b398c684/00000873_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ニポネ",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--16c4fc1e2b7606b253ab0616ee9b5c49345b9455/00000964_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "まにぞう",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3ODcsInB1ciI6ImJsb2JfaWQifX0=--69db0afd09709368b243384ea1771f284523c7f3/00001482_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ふくまるくん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2LCJwdXIiOiJibG9iX2lkIn19--a93101c852e67343b496afe3fc886bbb65025711/00000092_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ゆめずきんちゃん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3ODUsInB1ciI6ImJsb2JfaWQifX0=--26535eff3354fd65104f7465187e6af2ae2c4528/00002764_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "かいくん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NywicHVyIjoiYmxvYl9pZCJ9fQ==--dde5ff461cef783ba0850f6bc104fbdd582522e6/00000132_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "アルクマ（長野県PRキャラクター）",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b0811e0ab7d81f034e95efbd615c9dfafd3d8c8c/00000357_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "もおかぴょん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0OTMsInB1ciI6ImJsb2JfaWQifX0=--6cfcd8c8be690ce64bc74c1a4300872f01d8af22/00003214_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "やいちゃん",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--a2ed3e6663a5bd22cf350359e4ee3cbe638c7e8f/00001117_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "きたひろ　まいピー",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb7f9f4f4a5dfb47e999d77adf92a8d32b3cce2d/00001024_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "めいじろう",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA4OTUsInB1ciI6ImJsb2JfaWQifX0=--4725b2edf7d523feca12f962bf864b3b41f3dd3d/00003608_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ころう君",
+    "prefecture": "熊本県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYyLCJwdXIiOiJibG9iX2lkIn19--13c385b027a044fb171275fbb3e4978191069dba/00000096_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "幸手市マスコットキャラクター「さっちゃん」",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMzNywicHVyIjoiYmxvYl9pZCJ9fQ==--17bc72753b2fbe93dfd13f7e3b489d14fd4017ea/00000381_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "シガ公",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzNzIsInB1ciI6ImJsb2JfaWQifX0=--93deabf4f979bb8c4c1e5ba75575f05f2b5d57c4/00001551_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "い～にゃん",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--3f6da8f402c32617c1b95bd11fbcd69b11c8a739/00000577_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "たび丸",
+    "prefecture": "滋賀県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk1MTksInB1ciI6ImJsb2JfaWQifX0=--d06d94595775061b32d0711dff5be2a6eacae761/00002313_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "一生犬鳴！イヌナキン！",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8a751b684698604ea20b42147ca59373d0bb2f2b/00001029_image3.png",
+    "year": 2017
+  },
+  {
+    "name": "おづみん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7f4904d997f3615efa4d889ad2e68873d5509ce/00000435_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "しろい地底王国忍者じねんじゃー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MzMsInB1ciI6ImJsb2JfaWQifX0=--b524287fadb72a3795fc25c44d4d14d92de6565a/00002621_image3.jpg",
+    "year": 2017
+  },
+  {
+    "name": "カパル",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2e01b6c554219098445bf1e389333afbd934b2df/00000364_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ジャー坊",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NDAsInB1ciI6ImJsb2JfaWQifX0=--1cc587561e5dc08d629027283963d04926842498/00003613_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "こにゅうどうくん",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a00a0285ae3caba7259a0c7d13204bdf617ae2de/00000390_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "おぶちゃん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--933bee1ee01d0fcf3804b1ead2a92134d737c38e/00000576_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "大野ジョー",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5LCJwdXIiOiJibG9iX2lkIn19--89791eaf92d77584edf9a0cb824220eae45b7437/00000099_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "マッキー",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab0700f17909fc764b829e1530cc1d54f4d3cefe/00000119_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ばら菜",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc5NjIsInB1ciI6ImJsb2JfaWQifX0=--f4dfa760eff95996e2707e456142172a1a32a793/00002121_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "島原守護神しまばらん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMzksInB1ciI6ImJsb2JfaWQifX0=--a56e83b2145d2ca15b06cdc6aecd68770b800fb3/00003313_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "キューちゃん",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNjcsInB1ciI6ImJsb2JfaWQifX0=--325a81788d5db8fe19c26a5e879f5de5bfb8cd39/00003788_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ころう君",
+    "prefecture": "熊本県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYyLCJwdXIiOiJibG9iX2lkIn19--13c385b027a044fb171275fbb3e4978191069dba/00000096_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ちぃたん☆",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwMTgsInB1ciI6ImJsb2JfaWQifX0=--48aa439ab8bd4f223a14eef69ef8267466e3b1e9/00003962_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "あさピー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3MjQsInB1ciI6ImJsb2JfaWQifX0=--bf6f2b805f1ec60cf0b79d10c3dc94d4ff61f753/00001475_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "呉氏",
+    "prefecture": "広島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM4MjAsInB1ciI6ImJsb2JfaWQifX0=--4540db6cd3beea06be3ed431de48dbb9194c044c/00003944_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "うどんの妖精♪さぬどん",
+    "prefecture": "香川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg4MDcsInB1ciI6ImJsb2JfaWQifX0=--5dab53f9db100e282943c2a31d95fc4073dd2951/00003368_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "アルクマ（長野県PRキャラクター）",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b0811e0ab7d81f034e95efbd615c9dfafd3d8c8c/00000357_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "くるっぱ（久留米市イメージキャラクター）",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--70a72e18fd744cb2dd130bdb92464172b6a410fb/00001009_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "あかいわモモちゃん",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM5ODMsInB1ciI6ImJsb2JfaWQifX0=--d354aad262dee254e90059de7572d79b4fa36716/00002793_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "そお星人",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1ODUsInB1ciI6ImJsb2JfaWQifX0=--6e6a061c84d41f26dac94d4b1d735228598774b3/00003002_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "むすび丸",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMwLCJwdXIiOiJibG9iX2lkIn19--8717ad6e1ab1fb6a4b4aae6ded6662efa4d346c6/00000047_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "まめ吉",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MDcsInB1ciI6ImJsb2JfaWQifX0=--bb96e03a81dbcf90663f1a1d1ef80aa415bc1452/00003779_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "かさまるくん・かさまるちゃん",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE5LCJwdXIiOiJibG9iX2lkIn19--7dec3c67fb41ead9077c13aacbd8a9e8af261dfc/00000068_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ゆめずきんちゃん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3ODUsInB1ciI6ImJsb2JfaWQifX0=--26535eff3354fd65104f7465187e6af2ae2c4528/00002764_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ワニ博士",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3NTksInB1ciI6ImJsb2JfaWQifX0=--8fca49c86b51717932e0865fe725fdfa72d0b260/00003705_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "サシバのサッちゃん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMTQsInB1ciI6ImJsb2JfaWQifX0=--ddc6a3b99baf3b20e6b246aa3b2629a6bd8892ea/00002262_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "おりぴぃ",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxODAsInB1ciI6ImJsb2JfaWQifX0=--bd67ddf1f697633b51d4874cfc513247f33487d3/00001885_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "ひぽ能ん・ゆず美ん",
+    "prefecture": "石川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMzMzQsInB1ciI6ImJsb2JfaWQifX0=--fe8b09bbd4b5b4238e3da64de1bd33f34b0e7bc4/00003884_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "オエムシくん",
+    "prefecture": "山梨県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2NDUsInB1ciI6ImJsb2JfaWQifX0=--1ec1411f0a1304209be04f8e4b414ed17e4c3c5a/00003350_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "やべーべや",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxNjIsInB1ciI6ImJsb2JfaWQifX0=--ef9e13d5d383c3c810846d5a3a01b125b1fa8ae2/00002881_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "めい姫",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3NywicHVyIjoiYmxvYl9pZCJ9fQ==--adad53bd538be816f42ba68eeb959ffe46721450/00000647_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "しろっぴー",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMxNDUsInB1ciI6ImJsb2JfaWQifX0=--d537e438ec5156472d2c6c6887541eec6af9c512/00003863_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "チューカイくん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNzgsInB1ciI6ImJsb2JfaWQifX0=--c2e6e943352e6f986d76c1505d261f00606b4e6d/00003809_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "とほっぴ",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1MzIsInB1ciI6ImJsb2JfaWQifX0=--fcec4c764cb9c614d05af3c7991d65247370e7d6/00003907_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "幸手市マスコットキャラクター「さっちゃん」",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMzNywicHVyIjoiYmxvYl9pZCJ9fQ==--17bc72753b2fbe93dfd13f7e3b489d14fd4017ea/00000381_image3.jpg",
+    "year": 2018
+  },
+  {
+    "name": "アルクマ（長野県PRキャラクター）",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b0811e0ab7d81f034e95efbd615c9dfafd3d8c8c/00000357_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "一生犬鳴！イヌナキン！",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8a751b684698604ea20b42147ca59373d0bb2f2b/00001029_image3.png",
+    "year": 2019
+  },
+  {
+    "name": "ころう君",
+    "prefecture": "熊本県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYyLCJwdXIiOiJibG9iX2lkIn19--13c385b027a044fb171275fbb3e4978191069dba/00000096_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "とさけんぴ",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--8e5a3f55526e67f3f6731bde120fa2d6639f6722/00001037_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "くるっぱ（久留米市イメージキャラクター）",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--70a72e18fd744cb2dd130bdb92464172b6a410fb/00001009_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "オカザえもん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--566bc4b0dcde5c035cddb444c80ead29ecd34d26/00000959_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "おおまぴょん",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c813df7acfebf826b9d125f0da39b4b6d931f1b8/00000421_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "ヴィクトワール・シュヴァルブラン・村男Ⅲ世",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ff2fb910fed6cd986aaefe7c0d566e075c65685d/00001012_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "とよのん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMDUsInB1ciI6ImJsb2JfaWQifX0=--b229df087752b972f1126604c07bdb1bd6a66a5b/00002260_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "みどモス",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1OTQsInB1ciI6ImJsb2JfaWQifX0=--31d70a2786f4c1151507f8d3dd206e716e19b6ee/00004028_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "西郷つん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OTUsInB1ciI6ImJsb2JfaWQifX0=--3e12f156a29168996de55d26003fb435b64247da/00003918_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "ざおうさま",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e846a6861e3316e77cd823b6d807915a6d91b6d2/00001016_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "ケヤッキー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU2MTEsInB1ciI6ImJsb2JfaWQifX0=--818af6ca206f8b4185bc40bd9224519504b90770/00004146_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "うなぎいもの　うなも",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczMTIsInB1ciI6ImJsb2JfaWQifX0=--47b9efbe5597e524857d967ed1e24684ab87a07b/00002670_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "くろしおくん",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--aa85f0812e5206a35d638eaa7f454a3d3edc59a6/00000487_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "めい姫",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3NywicHVyIjoiYmxvYl9pZCJ9fQ==--adad53bd538be816f42ba68eeb959ffe46721450/00000647_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "みさ坊",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjUsInB1ciI6ImJsb2JfaWQifX0=--b0343eb7c1e365c180ba4cc878c97f03341a6793/00002179_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "うきぴー",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--d81e4117d746e796fe81702100f13b7509a7288b/00000735_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "あいのすけ",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyMTQsInB1ciI6ImJsb2JfaWQifX0=--071a8c0c346bb622c6de5711e81cda1de0adf4e3/00003183_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "まめ吉",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MDcsInB1ciI6ImJsb2JfaWQifX0=--bb96e03a81dbcf90663f1a1d1ef80aa415bc1452/00003779_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "わたぴー",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMjMsInB1ciI6ImJsb2JfaWQifX0=--e6a72556b798ff5446f01ee0065bda85d4c3a88f/00004104_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "むすび丸",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMwLCJwdXIiOiJibG9iX2lkIn19--8717ad6e1ab1fb6a4b4aae6ded6662efa4d346c6/00000047_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "かきたん",
+    "prefecture": "和歌山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--fa910bc866c4932873653510078cdc6c8ac56e18/00001030_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "うとう",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUwODksInB1ciI6ImJsb2JfaWQifX0=--afd7babbf26d130c1efa84df8d614acbddc7108c/00004086_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "松茂係長",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA4NTksInB1ciI6ImJsb2JfaWQifX0=--a818b105306a3dbdbce61417d7eca83d643d99b6/00003604_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "おづみん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7f4904d997f3615efa4d889ad2e68873d5509ce/00000435_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "オケちゃん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--2c0f135cb5a90a3a3c4da4f797fd7ec7bbf956a0/00000118_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "アサヒナサブロー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccd141524a66e8a87cae749ab70aded0dc8f6723/00000245_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "松姫マッピー",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--cd2dc1761bf710050a8b97577713b451c382f47e/00001001_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "あわ神",
+    "prefecture": "兵庫県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2MzMsInB1ciI6ImJsb2JfaWQifX0=--8dc1357f4b01a2c96172f1657646c6c0ac41c6dc/00001583_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "サシバのサッちゃん",
+    "prefecture": "栃木県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMTQsInB1ciI6ImJsb2JfaWQifX0=--ddc6a3b99baf3b20e6b246aa3b2629a6bd8892ea/00002262_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "かきつばたん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzMTUsInB1ciI6ImJsb2JfaWQifX0=--640724e2de321fa6dfbf04bf7ca6eb12bc9f202d/00003995_image3.jpg",
+    "year": 2019
+  },
+  {
+    "name": "たかたのゆめちゃん",
+    "prefecture": "岩手県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--91c9e4384bc4d5a638fc7ab6fbf2698f34ef50a0/00000368_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ゆるナキン",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMjUsInB1ciI6ImJsb2JfaWQifX0=--8f2d15ba8a949fadc2aaa6e545ba103fffc9beb5/00004194_image3.png",
+    "year": 2020
+  },
+  {
+    "name": "つるゴン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a15f7e19f23af8532df5ba35eea027db48f95b5/00001114_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "とよのん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMDUsInB1ciI6ImJsb2JfaWQifX0=--b229df087752b972f1126604c07bdb1bd6a66a5b/00002260_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "しろい地底王国忍者じねんじゃー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MzMsInB1ciI6ImJsb2JfaWQifX0=--b524287fadb72a3795fc25c44d4d14d92de6565a/00002621_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "みどモス",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1OTQsInB1ciI6ImJsb2JfaWQifX0=--31d70a2786f4c1151507f8d3dd206e716e19b6ee/00004028_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "西郷つん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OTUsInB1ciI6ImJsb2JfaWQifX0=--3e12f156a29168996de55d26003fb435b64247da/00003918_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "さくらっきー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f28fe72a33b4af7a90e1fbf97db694f9af90272/00000154_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "おおまぴょん",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c813df7acfebf826b9d125f0da39b4b6d931f1b8/00000421_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "かきつばたん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzMTUsInB1ciI6ImJsb2JfaWQifX0=--640724e2de321fa6dfbf04bf7ca6eb12bc9f202d/00003995_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "チェリン",
+    "prefecture": "山形県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c94177c462f30644c759b0f5589c281a4df93e6/00000408_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "うなぎいもの　うなも",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczMTIsInB1ciI6ImJsb2JfaWQifX0=--47b9efbe5597e524857d967ed1e24684ab87a07b/00002670_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ざおうさま",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e846a6861e3316e77cd823b6d807915a6d91b6d2/00001016_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "アサヒナサブロー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccd141524a66e8a87cae749ab70aded0dc8f6723/00000245_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "キューちゃん",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNjcsInB1ciI6ImJsb2JfaWQifX0=--325a81788d5db8fe19c26a5e879f5de5bfb8cd39/00003788_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "めい姫",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3NywicHVyIjoiYmxvYl9pZCJ9fQ==--adad53bd538be816f42ba68eeb959ffe46721450/00000647_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "おづみん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7f4904d997f3615efa4d889ad2e68873d5509ce/00000435_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "松姫マッピー",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--cd2dc1761bf710050a8b97577713b451c382f47e/00001001_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "かきたん",
+    "prefecture": "和歌山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--fa910bc866c4932873653510078cdc6c8ac56e18/00001030_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "タッチーくん",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--517587c991357a17310b0d7315786ae213463ded/00001056_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "みさ坊",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjUsInB1ciI6ImJsb2JfaWQifX0=--b0343eb7c1e365c180ba4cc878c97f03341a6793/00002179_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "なみすけ・ナミー",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyNjgsInB1ciI6ImJsb2JfaWQifX0=--283c1ff38c820a62a8bbccf488ce23f4907021be/00002157_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ひのじゃがくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MzYsInB1ciI6ImJsb2JfaWQifX0=--9ba2b6faed16344d5105f1d6d5a0bc0225d90610/00001321_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "くだまる",
+    "prefecture": "山口県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNDksInB1ciI6ImJsb2JfaWQifX0=--63a60ca76fb1888f6c12af50b0303df29a5edd4d/00004230_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "松茂係長",
+    "prefecture": "徳島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA4NTksInB1ciI6ImJsb2JfaWQifX0=--a818b105306a3dbdbce61417d7eca83d643d99b6/00003604_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "うきぴー",
+    "prefecture": "福岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--d81e4117d746e796fe81702100f13b7509a7288b/00000735_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "はむりん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd66f42f4017d410cc4f1535c212b457932696eb/00001073_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "もーん父さん",
+    "prefecture": "山梨県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NjcsInB1ciI6ImJsb2JfaWQifX0=--c2083d983bc8ba49ec7612f77c578fd5fba4a36a/00002054_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "うとう",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUwODksInB1ciI6ImJsb2JfaWQifX0=--afd7babbf26d130c1efa84df8d614acbddc7108c/00004086_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ササダンゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1LCJwdXIiOiJibG9iX2lkIn19--20f2eff8ff8029fca8df1ffb5508ba1bc9b9ce33/00000103_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "ぐらんでぃ☆鹿追町非公認！",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--ef36b0dac97cdfc8e559ccc3ec5e927b4fdecd99/00000571_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "いせわんこ",
+    "prefecture": "三重県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE4OTQsInB1ciI6ImJsb2JfaWQifX0=--ec1869aeb944a9fbe1f21da4b0f0592ab7a88bc1/00003722_image3.jpg",
+    "year": 2020
+  },
+  {
+    "name": "たかたのゆめちゃん",
+    "prefecture": "岩手県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--91c9e4384bc4d5a638fc7ab6fbf2698f34ef50a0/00000368_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ゆるナキン",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMjUsInB1ciI6ImJsb2JfaWQifX0=--8f2d15ba8a949fadc2aaa6e545ba103fffc9beb5/00004194_image3.png",
+    "year": 2021
+  },
+  {
+    "name": "つるゴン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a15f7e19f23af8532df5ba35eea027db48f95b5/00001114_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "とよのん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMDUsInB1ciI6ImJsb2JfaWQifX0=--b229df087752b972f1126604c07bdb1bd6a66a5b/00002260_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "しろい地底王国忍者じねんじゃー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MzMsInB1ciI6ImJsb2JfaWQifX0=--b524287fadb72a3795fc25c44d4d14d92de6565a/00002621_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "みどモス",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1OTQsInB1ciI6ImJsb2JfaWQifX0=--31d70a2786f4c1151507f8d3dd206e716e19b6ee/00004028_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "西郷つん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OTUsInB1ciI6ImJsb2JfaWQifX0=--3e12f156a29168996de55d26003fb435b64247da/00003918_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "さくらっきー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f28fe72a33b4af7a90e1fbf97db694f9af90272/00000154_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "おおまぴょん",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c813df7acfebf826b9d125f0da39b4b6d931f1b8/00000421_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "かきつばたん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzMTUsInB1ciI6ImJsb2JfaWQifX0=--640724e2de321fa6dfbf04bf7ca6eb12bc9f202d/00003995_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "チェリン",
+    "prefecture": "山形県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c94177c462f30644c759b0f5589c281a4df93e6/00000408_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "うなぎいもの　うなも",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczMTIsInB1ciI6ImJsb2JfaWQifX0=--47b9efbe5597e524857d967ed1e24684ab87a07b/00002670_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "たかたのゆめちゃん",
+    "prefecture": "岩手県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--91c9e4384bc4d5a638fc7ab6fbf2698f34ef50a0/00000368_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ゆるナキン",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMjUsInB1ciI6ImJsb2JfaWQifX0=--8f2d15ba8a949fadc2aaa6e545ba103fffc9beb5/00004194_image3.png",
+    "year": 2021
+  },
+  {
+    "name": "つるゴン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a15f7e19f23af8532df5ba35eea027db48f95b5/00001114_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "とよのん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMDUsInB1ciI6ImJsb2JfaWQifX0=--b229df087752b972f1126604c07bdb1bd6a66a5b/00002260_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "しろい地底王国忍者じねんじゃー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MzMsInB1ciI6ImJsb2JfaWQifX0=--b524287fadb72a3795fc25c44d4d14d92de6565a/00002621_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "みどモス",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1OTQsInB1ciI6ImJsb2JfaWQifX0=--31d70a2786f4c1151507f8d3dd206e716e19b6ee/00004028_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "西郷つん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OTUsInB1ciI6ImJsb2JfaWQifX0=--3e12f156a29168996de55d26003fb435b64247da/00003918_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "さくらっきー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f28fe72a33b4af7a90e1fbf97db694f9af90272/00000154_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "おおまぴょん",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c813df7acfebf826b9d125f0da39b4b6d931f1b8/00000421_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "かきつばたん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzMTUsInB1ciI6ImJsb2JfaWQifX0=--640724e2de321fa6dfbf04bf7ca6eb12bc9f202d/00003995_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "チェリン",
+    "prefecture": "山形県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c94177c462f30644c759b0f5589c281a4df93e6/00000408_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "うなぎいもの　うなも",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczMTIsInB1ciI6ImJsb2JfaWQifX0=--47b9efbe5597e524857d967ed1e24684ab87a07b/00002670_image3.jpg",
+    "year": 2021
+  },
+  {
+    "name": "たかたのゆめちゃん",
+    "prefecture": "岩手県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--91c9e4384bc4d5a638fc7ab6fbf2698f34ef50a0/00000368_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ゆるナキン",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMjUsInB1ciI6ImJsb2JfaWQifX0=--8f2d15ba8a949fadc2aaa6e545ba103fffc9beb5/00004194_image3.png",
+    "year": 2022
+  },
+  {
+    "name": "つるゴン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a15f7e19f23af8532df5ba35eea027db48f95b5/00001114_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "とよのん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMDUsInB1ciI6ImJsb2JfaWQifX0=--b229df087752b972f1126604c07bdb1bd6a66a5b/00002260_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "しろい地底王国忍者じねんじゃー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MzMsInB1ciI6ImJsb2JfaWQifX0=--b524287fadb72a3795fc25c44d4d14d92de6565a/00002621_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "みどモス",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1OTQsInB1ciI6ImJsb2JfaWQifX0=--31d70a2786f4c1151507f8d3dd206e716e19b6ee/00004028_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "西郷つん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OTUsInB1ciI6ImJsb2JfaWQifX0=--3e12f156a29168996de55d26003fb435b64247da/00003918_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "さくらっきー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f28fe72a33b4af7a90e1fbf97db694f9af90272/00000154_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "おおまぴょん",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c813df7acfebf826b9d125f0da39b4b6d931f1b8/00000421_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "かきつばたん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzMTUsInB1ciI6ImJsb2JfaWQifX0=--640724e2de321fa6dfbf04bf7ca6eb12bc9f202d/00003995_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "チェリン",
+    "prefecture": "山形県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c94177c462f30644c759b0f5589c281a4df93e6/00000408_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "うなぎいもの　うなも",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczMTIsInB1ciI6ImJsb2JfaWQifX0=--47b9efbe5597e524857d967ed1e24684ab87a07b/00002670_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "たかたのゆめちゃん",
+    "prefecture": "岩手県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--91c9e4384bc4d5a638fc7ab6fbf2698f34ef50a0/00000368_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ゆるナキン",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMjUsInB1ciI6ImJsb2JfaWQifX0=--8f2d15ba8a949fadc2aaa6e545ba103fffc9beb5/00004194_image3.png",
+    "year": 2022
+  },
+  {
+    "name": "つるゴン",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a15f7e19f23af8532df5ba35eea027db48f95b5/00001114_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "滝ノ道ゆずる",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--306f6c59e8c8c62ff46d9ee55145ffbd90be122b/00000009_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "安田朗",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NDIsInB1ciI6ImJsb2JfaWQifX0=--e02c3ddb02ebb3466385d2c386980f0b09af7ea8/00001584_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "とよのん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMDUsInB1ciI6ImJsb2JfaWQifX0=--b229df087752b972f1126604c07bdb1bd6a66a5b/00002260_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ふっくらたまこ",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5ODIsInB1ciI6ImJsb2JfaWQifX0=--1d59ca00a9a500468d7a0b7eb28573c86854c9f8/00002925_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "しろい地底王国忍者じねんじゃー",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2MzMsInB1ciI6ImJsb2JfaWQifX0=--b524287fadb72a3795fc25c44d4d14d92de6565a/00002621_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "みどモス",
+    "prefecture": "群馬県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1OTQsInB1ciI6ImJsb2JfaWQifX0=--31d70a2786f4c1151507f8d3dd206e716e19b6ee/00004028_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "西郷つん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OTUsInB1ciI6ImJsb2JfaWQifX0=--3e12f156a29168996de55d26003fb435b64247da/00003918_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "さくらっきー",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f28fe72a33b4af7a90e1fbf97db694f9af90272/00000154_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ちゃちゃまる",
+    "prefecture": "岐阜県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQzMDcsInB1ciI6ImJsb2JfaWQifX0=--8b662a22ec315baf4b52487f949c96cf6ea17d47/00002830_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "おおまぴょん",
+    "prefecture": "長野県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NywicHVyIjoiYmxvYl9pZCJ9fQ==--c813df7acfebf826b9d125f0da39b4b6d931f1b8/00000421_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "よコジロー",
+    "prefecture": "高知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MjAsInB1ciI6ImJsb2JfaWQifX0=--98a1daaba1ee9e28beb54a410ec5a7ae19a09b87/00003325_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "かきつばたん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzMTUsInB1ciI6ImJsb2JfaWQifX0=--640724e2de321fa6dfbf04bf7ca6eb12bc9f202d/00003995_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "ラガマルくん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMjgsInB1ciI6ImJsb2JfaWQifX0=--c69137faa0310c4f99b910e22659db637f23ae46/00003645_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "チェリン",
+    "prefecture": "山形県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c94177c462f30644c759b0f5589c281a4df93e6/00000408_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "うなぎいもの　うなも",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzczMTIsInB1ciI6ImJsb2JfaWQifX0=--47b9efbe5597e524857d967ed1e24684ab87a07b/00002670_image3.jpg",
+    "year": 2022
+  },
+  {
+    "name": "うどん脳",
+    "prefecture": "香川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5d62fc8ef36bc38fbb76efd4bb4d02d828f0d47e/00000438_image3.jpg",
+    "year": 2023
+  },
+  {
+    "name": "ゆるナキン",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMjUsInB1ciI6ImJsb2JfaWQifX0=--8f2d15ba8a949fadc2aaa6e545ba103fffc9beb5/00004194_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "えちゴン",
+    "prefecture": "新潟県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--cbad0065c599fc29077846d4d9f5082c4f43d59c/00000542_image3.jpg",
+    "year": 2023
+  },
+  {
+    "name": "サダンディー",
+    "prefecture": "愛媛県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NDQsInB1ciI6ImJsb2JfaWQifX0=--3056b117ca9c574891a78807a48cd145bd5fb6e6/00006444_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "むびお",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNDksInB1ciI6ImJsb2JfaWQifX0=--60ccacaad83c5021b9e47376fbcd77cd230c39eb/00004286_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "キャベッツさん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNjksInB1ciI6ImJsb2JfaWQifX0=--056c1613f199a39fd826d6e455ede72c890ec0d5/00004073_image3.jpg",
+    "year": 2023
+  },
+  {
+    "name": "べるーにゃ",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5OTcsInB1ciI6ImJsb2JfaWQifX0=--d268754ce78c8b8db64ac51452e0ade724d7b4dd/00006471_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ちくワン",
+    "prefecture": "熊本県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMyODYsInB1ciI6ImJsb2JfaWQifX0=--0ca3775eaa470fee8714cb515b81902ff9d5d395/00006472.png",
+    "year": 2023
+  },
+  {
+    "name": "うなぽん",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3ODEsInB1ciI6ImJsb2JfaWQifX0=--393c1b571b7fd4c118499e11853de1c2cec9365d/00004279_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "のらねこくん",
+    "prefecture": "埼玉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMDUsInB1ciI6ImJsb2JfaWQifX0=--864a42f951fbb1b9e6cb757ed95d3ba58178d8f7/00003662_image3.jpg",
+    "year": 2023
+  },
+  {
+    "name": "山田フレンドヨーグルト坊や",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNTEsInB1ciI6ImJsb2JfaWQifX0=--4292ee0470a8f175bc38547a06489dade659aedc/00004285_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "みさ坊",
+    "prefecture": "島根県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MTcsInB1ciI6ImJsb2JfaWQifX0=--083a0609098e11eca4366ab92c61e35c644102f5/00004284_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ヤマダネコ",
+    "prefecture": "静岡県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NjEsInB1ciI6ImJsb2JfaWQifX0=--7a9a7acf9f242b652b40db0a7fa09cd9031ba68d/00006467_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "マナビーくん",
+    "prefecture": "宮城県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MTYsInB1ciI6ImJsb2JfaWQifX0=--b6fa35802732b178752d394b757349b6803b5808/00006458_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "笹太郎",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MjUsInB1ciI6ImJsb2JfaWQifX0=--57988b8ce8ac81113985bb2106acb24b671e02e9/00006461_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "一生犬鳴！イヌナキン！",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8a751b684698604ea20b42147ca59373d0bb2f2b/00001029_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "あわ神",
+    "prefecture": "兵庫県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MDgsInB1ciI6ImJsb2JfaWQifX0=--b68ee8afcf4c6ac1cc606a04679373d3dc28acfb/00004283_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "サンちゃん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNDEsInB1ciI6ImJsb2JfaWQifX0=--42987c8002d555ae1c28fdbc5332c929205e5066/00004280_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "シカッＱ",
+    "prefecture": "神奈川県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NTIsInB1ciI6ImJsb2JfaWQifX0=--1a16ec36832187824dc3e9af98fe5069a15594f8/00006466_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "めっけちゃん",
+    "prefecture": "福島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NjIsInB1ciI6ImJsb2JfaWQifX0=--6b74bd11fc7f0661691c61596f82cce711b7568d/00006446_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ブルブルくん",
+    "prefecture": "京都府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMzMsInB1ciI6ImJsb2JfaWQifX0=--0b5065e78d93acd6195705699139386fe46b5c04/00006453_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "若",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MjYsInB1ciI6ImJsb2JfaWQifX0=--795d9d1b2b835f8aae02131753f69a3607a41309/00004299_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "いちぺん",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyODUsInB1ciI6ImJsb2JfaWQifX0=--74ef3af35fb3759b7ec8fbaf7403e84a4d53d4b0/00006459_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "しかたん",
+    "prefecture": "岡山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMDQsInB1ciI6ImJsb2JfaWQifX0=--0c70acd6fe383566284cae0c594336393d55ca7c/00006456_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "たごぱん",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NTMsInB1ciI6ImJsb2JfaWQifX0=--132116db1cfcdd625bf7147b71ac631db6e55741/00006445_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ずーしーほっきー",
+    "prefecture": "北海道",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg0NDgsInB1ciI6ImJsb2JfaWQifX0=--cde1b79a10eab28ce3b5c8eb84cee42740568cfd/00002218_image3.jpg",
+    "year": 2023
+  },
+  {
+    "name": "キワン兄",
+    "prefecture": "和歌山県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NDMsInB1ciI6ImJsb2JfaWQifX0=--a3c1c257d71acc8c3ef984b3ea32c267c4e978a8/00006465_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "Vketちゃん1号",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3OTksInB1ciI6ImJsb2JfaWQifX0=--54efb8de63172a9926cd6d5c93723825311cf9c4/00004282_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ぺんとす",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MDcsInB1ciI6ImJsb2JfaWQifX0=--f44a073ba36bea35ecad086bb98187844b709bae/00006452_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "うけどん",
+    "prefecture": "福島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMjQsInB1ciI6ImJsb2JfaWQifX0=--919b6379d0e3548de976f070449d3d960e77d482/00006454_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "双葉ダルマさん",
+    "prefecture": "福島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMTUsInB1ciI6ImJsb2JfaWQifX0=--3adef674eed86fafd1f24e5c5ab4eea018606e0b/00006460_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ひお吉くん",
+    "prefecture": "鹿児島県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3OTAsInB1ciI6ImJsb2JfaWQifX0=--3b699f57c88c673f4b995035eea3de9463bc4e88/00004281_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "MS1ブレイン",
+    "prefecture": "東京都",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4ODAsInB1ciI6ImJsb2JfaWQifX0=--105920408e39a767c7737319a96d7f8dc3e8a6b5/00006449_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "じょうりんちゃん",
+    "prefecture": "京都府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgyMDMsInB1ciI6ImJsb2JfaWQifX0=--9a192e23d7b57fe1d90dd9914be1d0c45333fa61/00006474_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ガジロウ",
+    "prefecture": "兵庫県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4ODksInB1ciI6ImJsb2JfaWQifX0=--c5d500c66d1f4f4b6f551497ab31f98b9aff7b4e/00006450_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "モルドちゃん",
+    "prefecture": "大阪府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MzQsInB1ciI6ImJsb2JfaWQifX0=--0bbeb0b3bf118f92094237eaa69fe52cad813fd5/00006463_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "ジョニー",
+    "prefecture": "京都府",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NzAsInB1ciI6ImJsb2JfaWQifX0=--7c89b056316b809d341657122355ac1491276e7a/00006468_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "軍艦島のガンショーくん",
+    "prefecture": "長崎県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NzksInB1ciI6ImJsb2JfaWQifX0=--1485e2c9c91f2d4f899566fcaa9778011e226776/00006469_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "まずえもん",
+    "prefecture": "千葉県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4OTgsInB1ciI6ImJsb2JfaWQifX0=--6186fc05cfd3e12ca32c653e21a95865b2e3c33a/00006451_image3.png",
+    "year": 2023
+  },
+  {
+    "name": "愛教ちゃん",
+    "prefecture": "愛知県",
+    "imagePath": "https://yurugp.jp/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5ODgsInB1ciI6ImJsb2JfaWQifX0=--a441d08efc45a7817c2e9e97e669b5dff10c2dc2/00006470_image3.jpg",
+    "year": 2023
   }
 ]
