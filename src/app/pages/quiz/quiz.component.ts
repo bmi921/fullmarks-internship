@@ -13,13 +13,21 @@ export class QuizComponent implements OnInit {
   choices: string[] = [];
   questionType: 'name' | 'prefecture' = 'name';
   questionText: string = '';
+  loading = false;
 
   constructor(
     private dataService: DataService,
-    private confirmService: ConfirmService,
+    private confirmService: ConfirmService
   ) {}
 
   ngOnInit(): void {
+    this.loadQuestion();
+  }
+
+  loadQuestion(): void {
+    this.loading = true;
+    this.currentCharacter = undefined;
+
     this.dataService.getCharacters().subscribe((data) => {
       const randomIndex = Math.floor(Math.random() * data.length);
       this.currentCharacter = data[randomIndex];
@@ -58,6 +66,7 @@ export class QuizComponent implements OnInit {
             ? 'このゆるキャラの名前は何？'
             : `${this.currentCharacter.name}の出身県はどこ？`;
       }
+      this.loading = false;
     });
   }
 
@@ -79,6 +88,11 @@ export class QuizComponent implements OnInit {
     const isCorrect = selected === correctAnswer;
 
     // モーダルで正解/不正解を表示
-    this.confirmService.show(isCorrect, correctAnswer);
+    const modalRef = this.confirmService.show(isCorrect, correctAnswer);
+    if (modalRef) {
+      modalRef.onHidden?.subscribe(() => {
+        this.loadQuestion();
+      });
+    }
   }
 }

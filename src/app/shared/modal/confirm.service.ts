@@ -10,7 +10,7 @@ export class ConfirmService {
 
   constructor(private modalService: BsModalService) {}
 
-  show(isCorrect: boolean, correctAnswer?: string) {
+  show(isCorrect: boolean, correctAnswer?: string): BsModalRef | undefined {
     const initialState = {
       isCorrect: isCorrect,
       correctAnswer: correctAnswer,
@@ -18,5 +18,6 @@ export class ConfirmService {
     this.bsModalRef = this.modalService.show(ConfirmComponent, {
       initialState,
     });
+    return this.bsModalRef;
   }
 }
