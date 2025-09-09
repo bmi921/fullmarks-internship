@@ -26,4 +26,12 @@ export class ResultsComponent implements OnInit {
       this.accuracy = (this.correctAnswers.length / total) * 100;
     }
   }
+
+  clearHistory(): void {
+    localStorage.removeItem('correct');
+    localStorage.removeItem('wrong');
+    this.correctAnswers = [];
+    this.wrongAnswers = [];
+    this.accuracy = 0;
+  }
 }
