@@ -2,3 +2,24 @@
   min-height: calc(100vh - 56px); // ヘッダを引いた高さ
   padding-top: 1rem;
 }
+
+@media (max-width: 767.98px) {
+  .sidebar {
+    position: fixed;
+    top: 56px; // ヘッダーの高さに合わせて調整
+    bottom: 0;
+    left: -250px; // 画面外に隠す
+    width: 250px;
+    z-index: 1000;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .sidebar.open {
+    left: 0; // 画面内に表示
+  }
+
+  main {
+    margin-left: 0 !important; // サイドメニューが開いてもコンテンツは移動しない
+  }
+}

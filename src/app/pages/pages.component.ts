@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./pages.component.scss']
 })
 export class PagesComponent {
+  isSideMenuOpen = false;
 
+  toggleSideMenu(): void {
+    this.isSideMenuOpen = !this.isSideMenuOpen;
+  }
 }
