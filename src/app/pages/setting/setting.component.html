@@ -18,4 +18,17 @@
       </div>
     </div>
   </div>
+
+  <div class="card">
+    <h2>ヒント機能設定</h2>
+    <div class="hint-setting-item">
+      <input
+        type="checkbox"
+        id="hintToggle"
+        [checked]="isHintEnabled"
+        (change)="toggleHintSetting($event)"
+      />
+      <label for="hintToggle">Geminiがヒントを生成します</label>
+    </div>
+  </div>
 </div>

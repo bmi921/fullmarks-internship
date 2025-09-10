@@ -8,6 +8,7 @@ import { Character } from '../models/character.model';
 })
 export class DataService {
   private dataUrl = 'assets/characters.json';
+  private readonly HINT_SETTING_KEY = 'hint';
 
   constructor(private http: HttpClient) {}
 
@@ -49,5 +50,14 @@ export class DataService {
       const updatedLog = [...targetLog, character];
       localStorage.setItem(type, JSON.stringify(updatedLog));
     }
+  }
+
+  getHintSetting(): boolean {
+    const setting = localStorage.getItem(this.HINT_SETTING_KEY);
+    return setting ? JSON.parse(setting) : false; // Default to false(hint enabled)
+  }
+
+  setHintSetting(enabled: boolean): void {
+    localStorage.setItem(this.HINT_SETTING_KEY, JSON.stringify(enabled));
   }
 }

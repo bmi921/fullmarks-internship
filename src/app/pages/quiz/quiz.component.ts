@@ -18,6 +18,7 @@ export class QuizComponent implements OnInit {
   hint: string | null = null;
   isHintLoading = false;
   isHintVisible = false;
+  isHintFeatureEnabled: boolean = false; // New property
 
   // New properties for quiz scope
   noQuizScope: boolean = false;
@@ -34,6 +35,7 @@ export class QuizComponent implements OnInit {
     if (!this.noQuizScope) { // Only load question if there's a scope
       this.loadQuestion();
     }
+    this.isHintFeatureEnabled = this.dataService.getHintSetting(); // Initialize hint setting
   }
 
   private checkQuizScope(): void {
@@ -42,7 +44,7 @@ export class QuizComponent implements OnInit {
       const parsedPrefectures: string[] = JSON.parse(storedPrefectures);
       this.noQuizScope = parsedPrefectures.length === 0;
     } else {
-      // If nothing is stored, it means no prefectures are selected (or default behavior is to select all)
+      // If nothing is stored, it means no prefectures are selected (or default behavior is to select all).
       // Based on setting.component.ts, if nothing is stored, it defaults to selecting all.
       // So, if it's null here, it means the setting component hasn't run yet or it was cleared.
       // For safety, we'll assume no scope if localStorage is empty/null.
@@ -161,7 +163,8 @@ export class QuizComponent implements OnInit {
     // Log the answer
     if (isCorrect) {
       this.dataService.addAnswerLog('correct', this.currentCharacter);
-    } else {
+    }
+    else {
       this.dataService.addAnswerLog('wrong', this.currentCharacter);
     }
 

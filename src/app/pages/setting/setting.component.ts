@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DataService } from 'src/app/shared/data.service';
 
 @Component({
   selector: 'app-setting',
@@ -18,11 +19,13 @@ export class SettingComponent implements OnInit {
 
   selectedPrefectures: Set<string> = new Set<string>();
   localStorageKey = 'selectedPrefectures';
+  isHintEnabled: boolean = true;
 
-  constructor() { }
+  constructor(private dataService: DataService) { }
 
   ngOnInit(): void {
     this.loadPrefecturesFromLocalStorage();
+    this.isHintEnabled = this.dataService.getHintSetting();
   }
 
   isPrefectureSelected(prefecture: string): boolean {
@@ -36,6 +39,11 @@ export class SettingComponent implements OnInit {
       this.selectedPrefectures.delete(prefecture);
     }
     this.savePrefecturesToLocalStorage();
+  }
+
+  toggleHintSetting(event: any): void {
+    this.isHintEnabled = event.target.checked;
+    this.dataService.setHintSetting(this.isHintEnabled);
   }
 
   selectAll(): void {
