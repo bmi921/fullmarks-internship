@@ -1,6 +1,9 @@
-# fullmarks-internship
+# fullmarks-internship : ゆるキャラクイズ
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+このリポジトリは株式会社fullmarksの2025年サマーインターンで製作されたゆるキャラクイズアプリです。
+250をこえるゆるキャラの名前、出身県を当てるクイズになっています。状態の管理は全てブラウザのローカルストレージで行っています。
+ゆるキャラグランプリの投票にお役立てください。
 
 ## Development server
 
