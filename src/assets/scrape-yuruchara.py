@@ -58,7 +58,7 @@ with sync_playwright() as p:
                     "year": year,
                     "description": description
                 })
-                seen_names.add(name)  # 追加済みに登録
+                seen_names.add(name)  
                 print(f"Added: {name}")
 
             page.close()

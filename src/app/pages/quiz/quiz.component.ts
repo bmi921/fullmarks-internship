@@ -85,8 +85,8 @@ export class QuizComponent implements OnInit {
 
     const prompt =
       this.questionType === 'name'
-        ? `「${this.currentCharacter.name}」の名前がわかるようなヒントを簡潔に教えて。`
-        : `「${this.currentCharacter.name}」の出身県がわかるようなヒントを簡潔に教えて。`;
+        ? `「${this.currentCharacter.name}」 ${this.currentCharacter.description}。このゆるキャラの名前は何？というクイズのヒントを簡潔に教えて。自己紹介文、所属団体はクイズの回答者に見せられていないので、紹介文を見てというヒントは出さないでください。ヒント：というプレフィックスは使わないで。markdown記法は使わないで。箇条書きはやめて。`
+        : `「${this.currentCharacter.name}」${this.currentCharacter.description}。このゆるキャラの出身県はどこ？というクイズのヒントを簡潔に教えて。自己紹介文、所属団体はクイズの回答者に見せられていないので、紹介文を見てというヒントは出さないでください。絶対に出身県をヒントにしないで。ヒント：というプレフィックスは使わないで。markdown記法は使わないで。箇条書きはやめて。`;
 
     this.geminiService.getCompletion(prompt).subscribe({
       next: (hint) => {
