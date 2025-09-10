@@ -93,7 +93,7 @@ export class DataService {
       questionText = `このキャラクターの名前は何でしょう？`;
     } else {
       // prefecture
-      questionText = `このキャラクターの出身県はどこでしょう？`;
+      questionText = `${character.name}の出身県はどこでしょう？`;
     }
 
     return {
