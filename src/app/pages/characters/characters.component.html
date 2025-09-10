@@ -1,0 +1,51 @@
+<div class="m-3">
+  <h1>ゆるキャラ一覧</h1>
+  <p>ゆるキャラの名前や出身県で検索できます。</p>
+
+  <div class="row mb-3">
+    <div class="col-md-6">
+      <input
+        type="text"
+        class="form-control"
+        placeholder="名前で検索..."
+        [(ngModel)]="searchTerm"
+        (input)="search()"
+      />
+    </div>
+    <div class="col-md-6">
+      <select
+        class="form-select"
+        [(ngModel)]="selectedPrefecture"
+        (change)="search()"
+      >
+        <option *ngFor="let pref of prefectures" [value]="pref">
+          {{ pref }}
+        </option>
+      </select>
+    </div>
+  </div>
+
+  <div class="mb-3">
+    <p>{{ filteredCharacters.length }}件</p>
+  </div>
+
+  <div class="row">
+    <div
+      class="col-md-4 mb-4"
+      *ngFor="let character of filteredCharacters"
+    >
+      <div class="card h-100">
+        <img
+          [src]="character.imagePath"
+          class="card-img-top"
+          [alt]="character.name"
+          style="height: 200px; object-fit: contain; padding-top: 10px;"
+        />
+        <div class="card-body">
+          <h5 class="card-title">{{ character.name }}</h5>
+          <p class="card-text">{{ character.prefecture }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
