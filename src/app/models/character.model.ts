@@ -1,7 +1,7 @@
 export interface Character {
-  id: number;
   name: string;
   prefecture: string;
-  organization: string;
   imagePath: string;
+  year: number;
+  description: string;
 }
