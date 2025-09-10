@@ -1,11 +1,13 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <img src="favicon.ico" alt="icon" width="48px" class="ms-4" />
-  <a class="navbar-brand ps-3" href="/">ゆるキャラクイズ</a>
-  <button
-    class="navbar-toggler"
-    type="button"
-    (click)="onToggleSideMenu()"
-  >
-    <span class="navbar-toggler-icon"></span>
-  </button>
+  <div class="nav-item-left">
+    <img src="favicon.ico" alt="icon" width="48px" class="ms-4" />
+  </div>
+  <div class="flex-grow-1 text-center">
+    <a class="navbar-brand" href="/">ゆるキャラクイズ</a>
+  </div>
+  <div class="nav-item-right">
+    <button class="navbar-toggler me-4" type="button" (click)="onToggleSideMenu()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
 </nav>
