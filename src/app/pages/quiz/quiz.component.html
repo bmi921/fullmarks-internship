@@ -1,4 +1,4 @@
-<div class="quiz-container">
+<div class="setting-container">
   <div *ngIf="noQuizScope" class="no-scope-message d-flex justify-content-center m-5">
     <p>出題範囲がありません。設定画面で都道府県を選択してください。</p>
   </div>
@@ -9,7 +9,7 @@
     </div>
   </div>
 
-  <div *ngIf="!loading && currentCharacter && !noQuizScope" class="quiz-card">
+  <div *ngIf="!loading && currentCharacter && !noQuizScope" class="card quiz-card">
     <div class="quiz-image-container">
       <img
         [src]="currentCharacter.imagePath"
