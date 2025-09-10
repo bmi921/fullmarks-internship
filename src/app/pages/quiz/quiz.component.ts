@@ -19,6 +19,10 @@ export class QuizComponent implements OnInit {
   isHintLoading = false;
   isHintVisible = false;
 
+  // New properties for quiz scope
+  noQuizScope: boolean = false;
+  localStorageKey = 'selectedPrefectures';
+
   constructor(
     private dataService: DataService,
     private confirmService: ConfirmService,
@@ -26,7 +30,24 @@ export class QuizComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    this.loadQuestion();
+    this.checkQuizScope(); // Check quiz scope first
+    if (!this.noQuizScope) { // Only load question if there's a scope
+      this.loadQuestion();
+    }
+  }
+
+  private checkQuizScope(): void {
+    const storedPrefectures = localStorage.getItem(this.localStorageKey);
+    if (storedPrefectures) {
+      const parsedPrefectures: string[] = JSON.parse(storedPrefectures);
+      this.noQuizScope = parsedPrefectures.length === 0;
+    } else {
+      // If nothing is stored, it means no prefectures are selected (or default behavior is to select all)
+      // Based on setting.component.ts, if nothing is stored, it defaults to selecting all.
+      // So, if it's null here, it means the setting component hasn't run yet or it was cleared.
+      // For safety, we'll assume no scope if localStorage is empty/null.
+      this.noQuizScope = true;
+    }
   }
 
   loadQuestion(): void {
@@ -36,8 +57,27 @@ export class QuizComponent implements OnInit {
     this.isHintVisible = false;
 
     this.dataService.getCharacters().subscribe((data) => {
-      const randomIndex = Math.floor(Math.random() * data.length);
-      this.currentCharacter = data[randomIndex];
+      const storedPrefectures = localStorage.getItem(this.localStorageKey);
+      let filteredCharacters = data;
+
+      if (storedPrefectures) {
+        const parsedPrefectures: string[] = JSON.parse(storedPrefectures);
+        if (parsedPrefectures.length > 0) {
+          filteredCharacters = data.filter(character => parsedPrefectures.includes(character.prefecture));
+        }
+      }
+
+      if (filteredCharacters.length === 0) {
+        // Handle case where no characters match the selected prefectures
+        // For now, we'll just return and not load a question.
+        // A more robust solution might display a message to the user.
+        this.loading = false;
+        this.noQuizScope = true; // Set noQuizScope to true if no characters are available after filtering
+        return;
+      }
+
+      const randomIndex = Math.floor(Math.random() * filteredCharacters.length);
+      this.currentCharacter = filteredCharacters[randomIndex];
 
       // 問題の種類をランダムに決定
       this.questionType = Math.random() > 0.5 ? 'name' : 'prefecture';
