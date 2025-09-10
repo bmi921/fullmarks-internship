@@ -9,6 +9,7 @@ import { Character } from '../models/character.model';
 export class DataService {
   private dataUrl = 'assets/characters.json';
   private readonly HINT_SETTING_KEY = 'hint';
+  private readonly QUESTION_TYPE_KEY = 'questionType';
 
   constructor(private http: HttpClient) {}
 
@@ -59,5 +60,46 @@ export class DataService {
 
   setHintSetting(enabled: boolean): void {
     localStorage.setItem(this.HINT_SETTING_KEY, JSON.stringify(enabled));
+  }
+
+  getQuestionType(): 'random' | 'name' | 'prefecture' {
+    const type = localStorage.getItem(this.QUESTION_TYPE_KEY);
+    return (type as 'random' | 'name' | 'prefecture') || 'random'; // Default to random
+  }
+
+  generateQuizQuestion(characters: Character[]): {
+    character: Character;
+    question: string;
+    type: 'name' | 'prefecture';
+  } {
+    if (!characters || characters.length === 0) {
+      throw new Error('No characters provided to generate a quiz question.');
+    }
+
+    const randomIndex = Math.floor(Math.random() * characters.length);
+    const character = characters[randomIndex];
+
+    let questionType: 'name' | 'prefecture';
+    const configuredType = this.getQuestionType();
+
+    if (configuredType === 'random') {
+      questionType = Math.random() < 0.5 ? 'name' : 'prefecture';
+    } else {
+      questionType = configuredType;
+    }
+
+    let questionText: string;
+    if (questionType === 'name') {
+      questionText = `このキャラクターの名前は何でしょう？`;
+    } else {
+      // prefecture
+      questionText = `このキャラクターの出身県はどこでしょう？`;
+    }
+
+    return {
+      character: character,
+      question: questionText,
+      type: questionType,
+    };
   }
 }
