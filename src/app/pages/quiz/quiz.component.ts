@@ -12,7 +12,7 @@ import { ConfirmService } from 'src/app/shared/modal/confirm.service';
 export class QuizComponent implements OnInit {
   currentCharacter?: Character;
   choices: string[] = [];
-  questionType: 'name' | 'prefecture' = 'name';
+  questionType: 'name' | 'prefecture' | undefined; // No default, will be set by dataService
   questionText: string = '';
   loading = false;
   hint: string | null = null;
@@ -32,7 +32,8 @@ export class QuizComponent implements OnInit {
 
   ngOnInit(): void {
     this.checkQuizScope(); // Check quiz scope first
-    if (!this.noQuizScope) { // Only load question if there's a scope
+    if (!this.noQuizScope) {
+      // Only load question if there's a scope
       this.loadQuestion();
     }
     this.isHintFeatureEnabled = this.dataService.getHintSetting(); // Initialize hint setting
@@ -65,33 +66,31 @@ export class QuizComponent implements OnInit {
       if (storedPrefectures) {
         const parsedPrefectures: string[] = JSON.parse(storedPrefectures);
         if (parsedPrefectures.length > 0) {
-          filteredCharacters = data.filter(character => parsedPrefectures.includes(character.prefecture));
+          filteredCharacters = data.filter((character) =>
+            parsedPrefectures.includes(character.prefecture),
+          );
         }
       }
 
       if (filteredCharacters.length === 0) {
-        // Handle case where no characters match the selected prefectures
-        // For now, we'll just return and not load a question.
-        // A more robust solution might display a message to the user.
         this.loading = false;
-        this.noQuizScope = true; // Set noQuizScope to true if no characters are available after filtering
+        this.noQuizScope = true;
         return;
       }
 
-      const randomIndex = Math.floor(Math.random() * filteredCharacters.length);
-      this.currentCharacter = filteredCharacters[randomIndex];
+      const quizQuestion =
+        this.dataService.generateQuizQuestion(filteredCharacters);
+      this.currentCharacter = quizQuestion.character;
+      this.questionType = quizQuestion.type;
+      this.questionText = quizQuestion.question;
 
-      // 問題の種類をランダムに決定
-      this.questionType = Math.random() > 0.5 ? 'name' : 'prefecture';
-
+      // Generate choices based on the question type
       if (this.currentCharacter) {
-        // 正解の答え
         const correctAnswer =
           this.questionType === 'name'
             ? this.currentCharacter.name
             : this.currentCharacter.prefecture;
 
-        // ダミー選択肢を3つ取得
         let wrongChoices: string[] = [];
         while (wrongChoices.length < 3) {
           const rand = data[Math.floor(Math.random() * data.length)];
@@ -105,15 +104,7 @@ export class QuizComponent implements OnInit {
             wrongChoices.push(candidate);
           }
         }
-
-        // 正解を追加してシャッフル
         this.choices = this.shuffleArray([correctAnswer, ...wrongChoices]);
-
-        // 質問文を設定
-        this.questionText =
-          this.questionType === 'name'
-            ? 'このゆるキャラの名前は何？'
-            : `${this.currentCharacter.name}の出身県はどこ？`;
       }
       this.loading = false;
     });
@@ -163,8 +154,7 @@ export class QuizComponent implements OnInit {
     // Log the answer
     if (isCorrect) {
       this.dataService.addAnswerLog('correct', this.currentCharacter);
-    }
-    else {
+    } else {
       this.dataService.addAnswerLog('wrong', this.currentCharacter);
     }
 

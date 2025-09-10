@@ -20,6 +20,42 @@
   </div>
 
   <div class="card">
+    <h2>クイズ形式</h2>
+    <div class="quiz-type-setting">
+      <label>
+        <input
+          type="radio"
+          name="questionType"
+          value="random"
+          [(ngModel)]="selectedQuestionType"
+          (change)="saveQuestionTypeSetting()"
+        />
+        ランダム
+      </label>
+      <label>
+        <input
+          type="radio"
+          name="questionType"
+          value="name"
+          [(ngModel)]="selectedQuestionType"
+          (change)="saveQuestionTypeSetting()"
+        />
+        名前
+      </label>
+      <label>
+        <input
+          type="radio"
+          name="questionType"
+          value="prefecture"
+          [(ngModel)]="selectedQuestionType"
+          (change)="saveQuestionTypeSetting()"
+        />
+        出身県
+      </label>
+    </div>
+  </div>
+
+  <div class="card">
     <h2>ヒント機能設定</h2>
     <div class="hint-setting-item">
       <input
