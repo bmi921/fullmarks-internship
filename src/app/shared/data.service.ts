@@ -21,8 +21,33 @@ export class DataService {
   }
 
   addAnswerLog(type: 'correct' | 'wrong', character: Character): void {
-    const currentLog = this.getAnswerLog(type);
-    const updatedLog = [...currentLog, character];
-    localStorage.setItem(type, JSON.stringify(updatedLog));
+    const correctLog = this.getAnswerLog('correct');
+    const wrongLog = this.getAnswerLog('wrong');
+
+    // Remove from the opposite list if present
+    if (type === 'correct') {
+      const indexInWrong = wrongLog.findIndex((c) => c.name === character.name);
+      if (indexInWrong > -1) {
+        wrongLog.splice(indexInWrong, 1);
+        localStorage.setItem('wrong', JSON.stringify(wrongLog));
+      }
+    } else {
+      // type === 'wrong'
+      const indexInCorrect = correctLog.findIndex(
+        (c) => c.name === character.name,
+      );
+      if (indexInCorrect > -1) {
+        correctLog.splice(indexInCorrect, 1);
+        localStorage.setItem('correct', JSON.stringify(correctLog));
+      }
+    }
+
+    // Add to the target list if not already present
+    const targetLog = this.getAnswerLog(type);
+    const indexInTarget = targetLog.findIndex((c) => c.name === character.name);
+    if (indexInTarget === -1) {
+      const updatedLog = [...targetLog, character];
+      localStorage.setItem(type, JSON.stringify(updatedLog));
+    }
   }
 }
