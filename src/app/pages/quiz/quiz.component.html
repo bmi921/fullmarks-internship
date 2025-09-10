@@ -22,7 +22,7 @@
 
       <!-- Hint Section -->
       <div class="hint-section">
-        <button *ngIf="!isHintVisible" (click)="getHint()" class="btn btn-info">
+        <button *ngIf="isHintFeatureEnabled && !isHintVisible" (click)="getHint()" class="btn btn-info">
           ヒントを見る
         </button>
         <div *ngIf="isHintVisible" class="hint-content">
