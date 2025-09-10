@@ -15,6 +15,20 @@
     </div>
     <div class="quiz-content">
       <h2 class="quiz-question">{{ questionText }}</h2>
+
+      <!-- Hint Section -->
+      <div class="hint-section">
+        <button *ngIf="!isHintVisible" (click)="getHint()" class="btn btn-info">
+          ヒントを見る
+        </button>
+        <div *ngIf="isHintVisible" class="hint-content">
+          <div *ngIf="isHintLoading" class="spinner-border spinner-border-sm" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+          <p *ngIf="!isHintLoading">{{ hint }}</p>
+        </div>
+      </div>
+
       <div class="quiz-choices">
         <button
           *ngFor="let choice of choices"
