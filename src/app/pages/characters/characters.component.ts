@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
 import { Character } from '../../models/character.model';
 import { DataService } from '../../shared/data.service';
+import { ProfileService } from '../../shared/modal/profile.service';
 
 @Component({
   selector: 'app-characters',
@@ -16,7 +17,10 @@ export class CharactersComponent implements OnInit {
   prefectures: string[] = [];
   selectedPrefecture: string = 'すべて';
 
-  constructor(private dataService: DataService) {
+  constructor(
+    private dataService: DataService,
+    private profileService: ProfileService
+  ) {
     this.characters$ = this.dataService.getCharacters();
   }
 
@@ -47,5 +51,9 @@ export class CharactersComponent implements OnInit {
     }
 
     this.filteredCharacters = tempCharacters;
+  }
+
+  showProfile(character: Character): void {
+    this.profileService.open(character);
   }
 }

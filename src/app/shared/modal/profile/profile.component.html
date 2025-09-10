@@ -1,0 +1,27 @@
+<div class="modal-header">
+  <h4 class="modal-title pull-left">{{ character?.name }}</h4>
+  <button
+    type="button"
+    class="btn-close close pull-right"
+    aria-label="Close"
+    (click)="bsModalRef.hide()"
+  >
+    <span aria-hidden="true" class="visually-hidden">&times;</span>
+  </button>
+</div>
+
+<div class="modal-body text-center p-4" *ngIf="character">
+  <img
+    [src]="character.imagePath"
+    [alt]="character.name"
+    class="img-fluid mb-3"
+  />
+  <p><strong>出身県:</strong> {{ character.prefecture }}</p>
+  <p class="description">{{ character.description }}</p>
+</div>
+
+<div class="modal-footer">
+  <button type="button" class="btn btn-primary" (click)="bsModalRef.hide()">
+    閉じる
+  </button>
+</div>
