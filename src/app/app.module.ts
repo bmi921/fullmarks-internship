@@ -9,6 +9,7 @@ import { SideMenuComponent } from './shared/side-menu/side-menu.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { ConfirmModule } from './shared/modal/confirm/confirm.module';
+import { ProfileModule } from './shared/modal/profile/profile.module';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { ConfirmModule } from './shared/modal/confirm/confirm.module';
     FormsModule,
     HttpClientModule,
     ConfirmModule,
+    ProfileModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

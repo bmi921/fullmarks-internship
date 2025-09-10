@@ -34,7 +34,7 @@
       class="col-md-4 mb-4"
       *ngFor="let character of filteredCharacters"
     >
-      <div class="card h-100">
+      <div class="card h-100" (click)="showProfile(character)" style="cursor: pointer;">
         <img
           [src]="character.imagePath"
           class="card-img-top"
