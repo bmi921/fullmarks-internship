@@ -27,6 +27,11 @@ const routes: Routes = [
         loadChildren: () =>
           import('./pages/results/results.module').then((m) => m.ResultsModule),
       },
+      {
+        path: 'characters',
+        loadChildren: () =>
+          import('./pages/characters/characters.module').then((m) => m.CharactersModule),
+      },
     ],
   },
 ];
