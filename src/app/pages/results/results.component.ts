@@ -30,13 +30,14 @@ export class ResultsComponent implements OnInit {
   }
 
   createShareUrl(): void {
-    const totalQuestions = this.correctAnswers.length + this.wrongAnswers.length;
+    const totalQuestions =
+      this.correctAnswers.length + this.wrongAnswers.length;
     const text = `ゆるキャラクイズで遊んだよ！${totalQuestions}問答えて正答率は${this.accuracy.toFixed(
-      0
+      0,
     )}%でした！`;
     const encodedText = encodeURIComponent(text);
     // TODO: Replace with actual app URL
-    const url = 'http://localhost:4200';
+    const url = 'https://bmi921.github.io/yuruchara-quiz/index.html';
     this.shareUrl = `https://twitter.com/intent/tweet?text=${encodedText}&url=${url}`;
   }
 

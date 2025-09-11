@@ -2,8 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
-
-
 このリポジトリは株式会社fullmarksの2025年サマーインターンで製作されたゆるキャラクイズアプリです。
 250をこえるゆるキャラの名前、出身県を当てるクイズになっています。状態の管理は全てブラウザのローカルストレージで行っています。
 ゆるキャラグランプリの投票にお役立てください。
@@ -19,6 +17,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+bmi921.github.ioにデプロイする時は、`npm run build`でbase urlを変更させる。
 
 ## Running unit tests
 
