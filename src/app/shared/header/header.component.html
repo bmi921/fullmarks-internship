@@ -1,15 +1,17 @@
 <nav class="navbar navbar-expand-lg">
-  <div class="nav-item-left">
-    <img src="assets/favicon.ico" alt="icon" width="48px" class="ms-4" />
+  <div class="navbar-brand mx-sm-auto">
+    <img
+      src="assets/logo.png"
+      alt="ゆるキャラクイズ"
+      height="50"
+      class="header-logo"
+    />
   </div>
-  <div class="flex-grow-1 text-center navbar-brand"><img src="assets/logo.png" alt="ゆるキャラクイズ" height="50"></div>
-  <div class="nav-item-right">
-    <button
-      class="navbar-toggler me-4"
-      type="button"
-      (click)="onToggleSideMenu()"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  </div>
+  <button
+    class="navbar-toggler position-absolute end-0 me-2"
+    type="button"
+    (click)="onToggleSideMenu()"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
 </nav>
