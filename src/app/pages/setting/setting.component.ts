@@ -60,6 +60,7 @@ export class SettingComponent implements OnInit {
   selectedPrefectures: Set<string> = new Set<string>();
   localStorageKey = 'selectedPrefectures';
   isHintEnabled: boolean = true;
+  isHiddenImageEnabled: boolean = false;
   selectedQuestionType: string = 'random'; // Default to random
 
   constructor(private dataService: DataService) {}
@@ -71,6 +72,8 @@ export class SettingComponent implements OnInit {
     if (storedQuestionType) {
       this.selectedQuestionType = storedQuestionType;
     }
+    const hiddenImageSetting = localStorage.getItem('hiddenImage');
+    this.isHiddenImageEnabled = hiddenImageSetting === 'true';
   }
 
   saveQuestionTypeSetting(): void {
@@ -93,6 +96,11 @@ export class SettingComponent implements OnInit {
   toggleHintSetting(event: any): void {
     this.isHintEnabled = event.target.checked;
     this.dataService.setHintSetting(this.isHintEnabled);
+  }
+
+  toggleHiddenImageSetting(event: any): void {
+    this.isHiddenImageEnabled = event.target.checked;
+    localStorage.setItem('hiddenImage', this.isHiddenImageEnabled.toString());
   }
 
   selectAll(): void {

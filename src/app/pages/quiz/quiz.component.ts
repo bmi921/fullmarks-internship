@@ -19,6 +19,7 @@ export class QuizComponent implements OnInit {
   isHintLoading = false;
   isHintVisible = false;
   isHintFeatureEnabled: boolean = false; // New property
+  isHiddenImageEnabled: boolean = false;
 
   // New properties for quiz scope
   noQuizScope: boolean = false;
@@ -37,6 +38,8 @@ export class QuizComponent implements OnInit {
       this.loadQuestion();
     }
     this.isHintFeatureEnabled = this.dataService.getHintSetting(); // Initialize hint setting
+    const hiddenImageSetting = localStorage.getItem('hiddenImage');
+    this.isHiddenImageEnabled = hiddenImageSetting === 'true';
   }
 
   private checkQuizScope(): void {

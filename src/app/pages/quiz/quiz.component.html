@@ -15,6 +15,7 @@
         [src]="currentCharacter.imagePath"
         class="quiz-image"
         [alt]="currentCharacter.name"
+        [ngClass]="{ hidden: isHiddenImageEnabled }"
       />
     </div>
     <div class="quiz-content">

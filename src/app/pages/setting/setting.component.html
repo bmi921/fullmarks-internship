@@ -56,6 +56,19 @@
   </div>
 
   <div class="card">
+    <h2>隠し画像モード（上級者向け）</h2>
+    <div class="hint-setting-item">
+      <input
+        type="checkbox"
+        id="hiddenImageToggle"
+        [checked]="isHiddenImageEnabled"
+        (change)="toggleHiddenImageSetting($event)"
+      />
+      <label for="hiddenImageToggle">画像を隠す</label>
+    </div>
+  </div>
+
+  <div class="card">
     <h2>ヒント機能設定</h2>
     <div class="hint-setting-item">
       <input

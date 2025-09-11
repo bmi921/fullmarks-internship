@@ -67,7 +67,7 @@ with sync_playwright() as p:
     browser.close()
 
 # JSON出力
-with open("characters3.json", "w", encoding="utf-8") as f:
+with open("new-characters.json", "w", encoding="utf-8") as f:
     json.dump(all_characters, f, ensure_ascii=False, indent=2)
 
 print(f"Scraped total: {len(all_characters)} characters")
