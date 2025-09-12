@@ -1,10 +1,25 @@
-# fullmarks-internship : ゆるキャラクイズ
+# ゆるキャラクイズとは
+株式会社fullmarksの2025年サマーインターンで製作されたゆるキャラクイズアプリです。
+250を超えるゆるキャラの名前、出身県を当てるクイズになっています。Geminiが
+ゆるキャラグランプリの投票にお役立てください。
+
+<img width="1200" height="630" alt="Frame 1" src="https://github.com/user-attachments/assets/faaf6ced-6753-4ce3-a49c-92a2430fff6d" />
+
+# 機能
+- 出題範囲を都道府県単位で決められます。
+- 上級者向けに画像をぼやかして表示する隠し画像モードもあります。
+- クイズの回答を元に正答率をXでシェアできます。
+- Geminiが公式の自己紹介文をを元にヒントを出す機能があります。個人で使われる方は/src/app/environmentディレクトリからgeminiのAPIKEYを設定してください。
+- 回答履歴、出題範囲などはブラウザのローカルストレージに保存されます。
+- AngularJSで動作するシンプルな構成のアプリです。
+
+<img width="426" height="772" alt="スクリーンショット 2025-09-12 11 48 44" src="https://github.com/user-attachments/assets/79fda8c2-b297-4f43-8fd9-053a20c4f669" />
+<img width="1164" height="888" alt="スクリーンショット 2025-09-12 11 51 18" src="https://github.com/user-attachments/assets/91149605-5ceb-4587-87f7-9ed4fe603412" />
+
+# For developper
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
-
-このリポジトリは株式会社fullmarksの2025年サマーインターンで製作されたゆるキャラクイズアプリです。
-250をこえるゆるキャラの名前、出身県を当てるクイズになっています。状態の管理は全てブラウザのローカルストレージで行っています。
-ゆるキャラグランプリの投票にお役立てください。
 
 ## Development server
 
