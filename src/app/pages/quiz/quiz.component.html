@@ -1,15 +1,24 @@
 <div class="setting-container">
-  <div *ngIf="noQuizScope" class="no-scope-message d-flex justify-content-center m-5">
+  <div
+    *ngIf="noQuizScope"
+    class="no-scope-message d-flex justify-content-center m-5"
+  >
     <p>出題範囲がありません。設定画面で都道府県を選択してください。</p>
   </div>
 
-  <div class="d-flex justify-content-center m-5" *ngIf="loading && !noQuizScope">
+  <div
+    class="d-flex justify-content-center m-5"
+    *ngIf="loading && !noQuizScope"
+  >
     <div class="spinner-border" role="status">
       <span class="visually-hidden">Loading...</span>
     </div>
   </div>
 
-  <div *ngIf="!loading && currentCharacter && !noQuizScope" class="card quiz-card">
+  <div
+    *ngIf="!loading && currentCharacter && !noQuizScope"
+    class="card quiz-card"
+  >
     <div class="quiz-image-container">
       <img
         [src]="currentCharacter.imagePath"
@@ -23,11 +32,19 @@
 
       <!-- Hint Section -->
       <div class="hint-section">
-        <button *ngIf="isHintFeatureEnabled && !isHintVisible" (click)="getHint()" class="btn btn-info">
-          ヒントを見る
+        <button
+          *ngIf="isHintFeatureEnabled && !isHintVisible"
+          (click)="getHint()"
+          class="btn btn-outline-primary"
+        >
+          💡 ヒント
         </button>
         <div *ngIf="isHintVisible" class="hint-content">
-          <div *ngIf="isHintLoading" class="spinner-border spinner-border-sm" role="status">
+          <div
+            *ngIf="isHintLoading"
+            class="spinner-border spinner-border-sm"
+            role="status"
+          >
             <span class="visually-hidden">Loading...</span>
           </div>
           <p *ngIf="!isHintLoading">{{ hint }}</p>
@@ -36,9 +53,15 @@
 
       <div class="quiz-choices">
         <button
-          *ngFor="let choice of choices"
+          *ngFor="let choice of choices; let i = index"
           type="button"
-          class="btn btn-outline-primary choice-button"
+          class="btn choice-button"
+          [ngClass]="{
+            'btn-success': i === 0,
+            'btn-danger': i === 1,
+            'btn-warning': i === 2,
+            'btn-info': i === 3,
+          }"
           (click)="register(choice)"
         >
           {{ choice }}
