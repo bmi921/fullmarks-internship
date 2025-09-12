@@ -31,8 +31,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-bmi921.github.ioにデプロイする時は、`npm run build`でbase urlを変更させる。
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.  
+github pagesにdeployするときは、`npm run build`で`dist/yuruchara-quiz`ディレクトリをpublicに置いてあげる。
 
 ## Running unit tests
 
